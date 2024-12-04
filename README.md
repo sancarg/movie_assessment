@@ -1,6 +1,6 @@
 # 🎬 Movie Assessment App
-```
-This is a machine learning app for movie dataset
+
+This is a machine learning app for the movie dataset
 
 ## Demo App
 
