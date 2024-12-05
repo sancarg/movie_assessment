@@ -17,4 +17,18 @@ st.warning('To engage with the app, 1. Select genres of your interest in the dro
 # Question header
 st.subheader('Which Movie Genre performs ($) best at the box office?')
 # Load data - Read CSV into a Pandas DataFrame
-df = pd.read_csv('
+# Convert the Relesa_Date column to datetime format:
+df['Release_Date'] = pd.to_datetime(df['Release_Date'], format='%m/%d/%Y')
+# Extract the year and convert it to integer:
+df['Year'] = df['Release_Date'].dt.year
+# Ensure the 'Year' column is of integer type:
+df['Year'] = df['Year'].astype(int)
+
+# Extract unique genres from the DataFrame 
+genres_list = df['genre'].unique() 
+# Create a multiselect dropdown menu for genre selection 
+genres_selection = st.multiselect( 
+  label='Select genres', # Dropdown label 
+  options=genres_list, # List of genres to choose from 
+  default=['Action', 'Adventure', 'Biography', 'Comedy', 'Drama', 'Horror'] # Default selected genres 
+)
