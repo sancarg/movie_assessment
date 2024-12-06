@@ -1,0 +1,2361 @@
+Movie_Name,Release_Date,Genres,Revenue,Runtime,Year
+Black Panther: Wakanda Forever,2022-11-10,Science Fiction,835000000.0,162.0,2022
+Puss in Boots: The Last Wish,2022-12-08,Fantasy,369105725.0,103.0,2022
+Shotgun Wedding,2022-12-28,Comedy,4495365.0,101.0,2022
+M3GAN,2023-01-05,Comedy,158000000.0,102.0,2023
+Avatar: The Way of Water,2022-12-15,Action,2176000000.0,192.0,2022
+Devotion,2023-01-20,Drama,20000000.0,139.0,2023
+Glass Onion: A Knives Out Mystery,2022-12-23,Mystery,13280000.0,140.0,2022
+Black Adam,2022-10-20,Science Fiction,389000000.0,125.0,2022
+Violent Night,2022-12-01,Thriller,73000000.0,112.0,2022
+Babylon,2023-01-19,Comedy,42110960.0,189.0,2023
+Prey for the Devil,2022-10-27,Thriller,37655699.0,93.0,2022
+Plane,2023-01-19,Thriller,29000000.0,107.0,2023
+Avatar,2009-12-18,Science Fiction,2920357254.0,162.0,2009
+The Woman King,2023-04-20,History,91000000.0,135.0,2023
+Roald Dahl's Matilda the Musical,2022-12-25,Fantasy,13276499.0,117.0,2022
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-22,Fantasy,745013115.0,143.0,2005
+Winnie the Pooh: Blood and Honey,2023-02-15,Thriller,1000000.0,84.0,2023
+Fall,2022-08-11,Thriller,16120263.0,107.0,2022
+Strange World,2022-11-24,Family,60624918.0,102.0,2022
+Terrifier 2,2022-10-17,Horror,12400000.0,138.0,2022
+Knock at the Cabin,2023-02-16,Thriller,21000000.0,100.0,2023
+Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,2020-10-16,Thriller,503063688.0,117.0,2020
+Medieval,2022-09-09,Drama,4311284.0,126.0,2022
+Top Gun: Maverick,2022-05-26,Drama,1488732821.0,131.0,2022
+Jurassic World Dominion,2022-06-08,Science Fiction,1001000000.0,147.0,2022
+Spider-Man: No Way Home,2021-12-16,Science Fiction,1916306995.0,148.0,2021
+Thor: Love and Thunder,2022-07-07,Comedy,760928081.0,119.0,2022
+Jeepers Creepers: Reborn,2022-09-22,Mystery,5954938.0,88.0,2022
+Smile,2022-09-29,Thriller,216000000.0,115.0,2022
+Dragon Ball Super: Super Hero,2022-09-01,Action,86562140.0,99.0,2022
+Jujutsu Kaisen 0,2022-03-10,Fantasy,195870885.0,105.0,2022
+"Lyle, Lyle, Crocodile",2022-12-01,Music,79761937.0,106.0,2022
+Sonic the Hedgehog 2,2022-03-31,Comedy,401800000.0,122.0,2022
+Bullet Train,2022-08-04,Thriller,239260044.0,126.0,2022
+Harry Potter and the Philosopher's Stone,2001-11-22,Fantasy,976475550.0,152.0,2001
+Doctor Strange in the Multiverse of Madness,2022-05-04,Adventure,964091059.0,126.0,2022
+Monstrous,2022-05-13,Thriller,138450.0,89.0,2022
+The Whale,2022-12-29,Drama,11096765.0,117.0,2022
+Beast,2022-08-25,Horror,56000000.0,93.0,2022
+Encanto,2021-11-25,Fantasy,253000000.0,102.0,2021
+Minions: The Rise of Gru,2022-06-30,Family,939628210.0,87.0,2022
+The Batman,2022-03-03,Thriller,770836163.0,177.0,2022
+Puss in Boots,2011-10-28,Western,554987477.0,90.0,2011
+Turning Red,2022-03-11,Fantasy,18879922.0,100.0,2022
+Sing 2,2021-12-23,Family,406000000.0,110.0,2021
+Orphan: First Kill,2022-08-04,Thriller,9572765.0,99.0,2022
+Avengers: Infinity War,2018-04-26,Science Fiction,2046239637.0,149.0,2018
+Shrek,2001-06-07,Family,487853320.0,90.0,2001
+Uncharted,2022-02-17,Adventure,401748820.0,116.0,2022
+The Quintessential Quintuplets Movie,2022-05-20,Romance,17288993.0,136.0,2022
+DC League of Super-Pets,2022-07-28,Science Fiction,203000000.0,105.0,2022
+A Man Called Otto,2023-03-23,Drama,83000000.0,126.0,2023
+Harry Potter and the Goblet of Fire,2005-11-17,Family,895921036.0,157.0,2005
+Titanic,2012-04-05,Romance,2187463944.0,194.0,2012
+Piggy,2022-10-14,Horror,380512.0,100.0,2022
+After Ever Happy,2022-09-07,Drama,12467270.0,95.0,2022
+Harry Potter and the Half-Blood Prince,2009-07-07,Fantasy,933959197.0,153.0,2009
+Harry Potter and the Chamber of Secrets,2002-11-16,Fantasy,876688482.0,161.0,2002
+X,2022-05-24,Thriller,14779858.0,106.0,2022
+My Hero Academia: World Heroes' Mission,2021-08-06,Science Fiction,38410729.0,105.0,2021
+The Menu,2022-11-17,Thriller,76849419.0,107.0,2022
+The Black Phone,2022-07-21,Thriller,161000000.0,103.0,2022
+Harry Potter and the Prisoner of Azkaban,2004-06-04,Fantasy,789804554.0,141.0,2004
+Black Panther,2018-02-15,Science Fiction,1347597973.0,135.0,2018
+Fantastic Beasts: The Secrets of Dumbledore,2022-04-14,Action,405161334.0,142.0,2022
+Scream,2022-01-13,Thriller,140041405.0,114.0,2022
+Harry Potter and the Order of the Phoenix,2007-07-03,Mystery,938212738.0,138.0,2007
+The Invitation,2022-08-25,Thriller,33628000.0,105.0,2022
+Fifty Shades of Grey,2015-02-13,Thriller,571006128.0,125.0,2015
+Interstellar,2014-11-06,Science Fiction,701729206.0,169.0,2014
+Venom: Let There Be Carnage,2021-10-14,Adventure,506863592.0,97.0,2021
+Hacksaw Ridge,2017-01-19,War,175302354.0,139.0,2017
+The Conjuring: The Devil Made Me Do It,2021-06-11,Thriller,201000000.0,111.0,2021
+Everything Everywhere All at Once,2022-03-24,Science Fiction,105125007.0,140.0,2022
+Fifty Shades Freed,2018-02-09,Romance,368307760.0,105.0,2018
+Harry Potter and the Deathly Hallows: Part 2,2011-07-07,Adventure,1341511219.0,130.0,2011
+The Lost City,2022-04-21,Comedy,190844029.0,112.0,2022
+Shrek 2,2004-05-21,Romance,928760770.0,93.0,2004
+The Banshees of Inisherin,2023-01-26,Comedy,19826461.0,114.0,2023
+The Battle at Lake Changjin: Water Gate Bridge,2022-02-10,Drama,626203271.0,149.0,2022
+The Jack in the Box: Awakening,2022-01-03,Horror,195189.0,89.0,2022
+Laid-Back Camp The Movie,2022-07-01,Comedy,7283918.0,121.0,2022
+Harry Potter and the Deathly Hallows: Part 1,2010-11-19,Fantasy,954305868.0,146.0,2010
+The Northman,2022-07-14,Fantasy,69633110.0,137.0,2022
+Morbius,2022-03-31,Fantasy,161000000.0,105.0,2022
+Blade Runner 2049,2017-10-05,Drama,259239658.0,164.0,2017
+Take the Lead,2006-03-17,Drama,65742992.0,108.0,2006
+John Wick: Chapter 2,2017-02-16,Crime,171539887.0,122.0,2017
+Lightyear,2022-06-16,Science Fiction,226400000.0,105.0,2022
+Shang-Chi and the Legend of the Ten Rings,2021-09-01,Fantasy,432243292.0,132.0,2021
+Shrek Forever After,2010-05-16,Family,752600867.0,93.0,2010
+Moonfall,2022-02-03,Science Fiction,59100000.0,130.0,2022
+Sonic the Hedgehog,2020-02-20,Family,306766470.0,99.0,2020
+"Monsters, Inc.",2001-11-15,Family,579707738.0,92.0,2001
+The Maze Runner,2014-09-17,Thriller,348319861.0,113.0,2014
+The Seven Deadly Sins: Cursed by Light,2021-07-02,Fantasy,1094673.0,79.0,2021
+Top Gun,1986-05-16,Drama,356830601.0,110.0,1986
+The Avengers,2012-05-01,Adventure,1518815515.0,143.0,2012
+The Shawshank Redemption,2021-03-31,Crime,28341469.0,142.0,2021
+Coco,2017-11-22,Adventure,800526015.0,105.0,2017
+The Call of the Wild,2020-02-21,Drama,111105497.0,100.0,2020
+The Boss Baby: Family Business,2021-09-09,Family,146745280.0,107.0,2021
+Watcher,2022-06-03,Horror,2667033.0,96.0,2022
+Zack Snyder's Justice League,2021-03-18,Science Fiction,657900000.0,242.0,2021
+Avengers: Endgame,2019-04-24,Action,2797800564.0,181.0,2019
+Shrek the Third,2007-05-17,Family,813367380.0,93.0,2007
+Cruella,2021-05-27,Crime,233503234.0,134.0,2021
+Memory,2022-05-12,Crime,11300000.0,114.0,2022
+The Suicide Squad,2021-08-05,Adventure,168657565.0,132.0,2021
+Chappie,2015-03-04,Science Fiction,104399548.0,,2015
+The Matrix,1999-04-22,Science Fiction,463517383.0,136.0,1999
+RRR,2022-03-25,Drama,160000000.0,187.0,2022
+John Wick: Chapter 3 - Parabellum,2019-05-16,Crime,326709727.0,130.0,2019
+Mortal Kombat,2021-04-08,Adventure,83601013.0,110.0,2021
+I Am Number Four,2011-02-18,Adventure,149878437.0,109.0,2011
+The Bad Guys,2022-03-17,Comedy,248000000.0,100.0,2022
+Eternals,2021-11-04,Adventure,402064899.0,156.0,2021
+Ratatouille,2007-06-29,Fantasy,623726000.0,111.0,2007
+A Quiet Place Part II,2021-06-17,Horror,297372261.0,97.0,2021
+Halloween Ends,2022-10-13,Thriller,103000000.0,111.0,2022
+Sword Art Online the Movie -Progressive- Aria of a Starless Night,2022-01-06,Science Fiction,14037060.0,97.0,2022
+Cars 2,2011-06-16,Comedy,559852396.0,106.0,2011
+Luca,2021-06-18,Fantasy,49010641.0,95.0,2021
+Dragon Ball Z: Resurrection 'F',2015-04-18,Science Fiction,61768190.0,93.0,2015
+Tangled,2010-12-02,Family,592461732.0,100.0,2010
+Cars 3,2017-06-16,Family,383925276.0,102.0,2017
+Resident Evil: Welcome to Raccoon City,2021-12-02,Action,38600612.0,107.0,2021
+How to Train Your Dragon: The Hidden World,2019-01-31,Adventure,517526875.0,104.0,2019
+The Croods: A New Age,2020-11-26,Comedy,168285000.0,95.0,2020
+F9,2021-07-01,Thriller,726229501.0,143.0,2021
+After,2019-04-12,Drama,69497587.0,106.0,2019
+What Men Want,2019-02-08,Romance,69766483.0,117.0,2019
+Dog,2022-03-17,Comedy,77263354.0,102.0,2022
+After We Fell,2021-09-30,Drama,21500000.0,99.0,2021
+The Wolf of Wall Street,2014-01-09,Comedy,392000000.0,,2014
+Toy Story,1995-11-22,Comedy,373554033.0,81.0,1995
+Ice Age,2002-03-15,Adventure,383257136.0,81.0,2002
+Wrath of Man,2021-04-29,Thriller,103966489.0,119.0,2021
+After We Collided,2020-10-23,Drama,42000000.0,105.0,2020
+Pirates of the Caribbean: On Stranger Tides,2011-05-19,Fantasy,1045713802.0,137.0,2011
+Decision to Leave,2022-07-14,Romance,16914773.0,138.0,2022
+Me Before You,2016-06-02,Romance,207945075.0,110.0,2016
+Creed II,2018-11-22,Action,214215889.0,130.0,2018
+The Lion King,1994-08-10,Drama,763455561.0,89.0,1994
+The Godfather,2022-02-25,Crime,245066411.0,175.0,2022
+You Won't Be Alone,2022-09-22,Drama,125000.0,109.0,2022
+One Piece Film Red,2022-08-06,Fantasy,150797338.0,115.0,2022
+Godzilla vs. Kong,2021-03-25,Science Fiction,470067014.0,114.0,2021
+Deadpool,2016-02-11,Comedy,783100000.0,108.0,2016
+The Godfather Part III,2008-08-06,Thriller,136766062.0,170.0,2008
+Clifford the Big Red Dog,2021-12-02,Fantasy,67000000.0,97.0,2021
+Avengers: Age of Ultron,2015-04-23,Science Fiction,1405403694.0,141.0,2015
+Fifty Shades Darker,2017-02-09,Romance,378827494.0,118.0,2017
+The Conjuring,2013-08-15,Thriller,319494638.0,112.0,2013
+The Last: Naruto the Movie,2014-12-06,Animation,19840000.0,114.0,2014
+Dune,2021-09-16,Adventure,400671789.0,155.0,2021
+Black Widow,2021-07-08,Science Fiction,379751655.0,134.0,2021
+Your Name.,2016-08-26,Drama,357986087.0,106.0,2016
+The Lord of the Rings: The Fellowship of the Ring,2001-12-20,Action,871368364.0,179.0,2001
+The Princess and the Frog,2009-12-10,Animation,270997378.0,98.0,2009
+PAW Patrol: The Movie,2021-08-26,Comedy,144327371.0,86.0,2021
+The Twilight Saga: Eclipse,2010-06-23,Romance,698491347.0,124.0,2010
+Big Hero 6,2014-11-12,Comedy,657827828.0,102.0,2014
+The Matrix Resurrections,2021-12-22,Adventure,156497322.0,147.0,2021
+Fast & Furious Presents: Hobbs & Shaw,2019-08-01,Comedy,760098996.0,137.0,2019
+Iron Man 2,2010-05-07,Science Fiction,623933331.0,124.0,2010
+Red Notice,2021-11-12,Thriller,178143.0,118.0,2021
+Home Alone 2: Lost in New York,1992-11-19,Adventure,358994850.0,,1992
+Boruto: Naruto the Movie,2015-08-07,Comedy,39500000.0,95.0,2015
+Emergency Declaration,2022-08-04,Thriller,19200000.0,140.0,2022
+Ted 2,2015-07-02,Fantasy,215863606.0,115.0,2015
+Grown Ups 2,2013-07-12,Comedy,247022278.0,101.0,2013
+The Tomorrow War,2021-07-02,Adventure,19220000.0,138.0,2021
+Ghostbusters: Afterlife,2021-11-18,Adventure,191000000.0,124.0,2021
+Ant-Man,2015-07-15,Adventure,519311965.0,117.0,2015
+Coraline,2009-10-29,Fantasy,124600000.0,100.0,2009
+The Twilight Saga: Breaking Dawn - Part 2,2012-11-22,Romance,829747654.0,115.0,2012
+The Lucky One,2012-04-19,Romance,99357138.0,101.0,2012
+Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,Action,655011224.0,143.0,2003
+The Twin,2022-04-06,Mystery,492000.0,109.0,2022
+The Hunger Games: Mockingjay - Part 1,2014-11-21,Thriller,755356711.0,123.0,2014
+The Green Mile,2000-03-16,Crime,286801374.0,189.0,2000
+Pathaan,2023-01-25,Thriller,101000000.0,146.0,2023
+Twilight,2008-11-21,Romance,393616788.0,122.0,2008
+The Little Mermaid,1989-11-17,Fantasy,211343479.0,83.0,1989
+American Sniper,2015-01-22,Action,542307423.0,133.0,2015
+The Addams Family 2,2021-11-11,Horror,119815153.0,93.0,2021
+Men,2022-06-01,Fantasy,7168717.0,100.0,2022
+Naruto Shippuden the Movie,2007-08-04,Fantasy,10000000.0,94.0,2007
+Up,2009-05-28,Adventure,735099082.0,96.0,2009
+The Fabelmans,2023-02-09,Drama,28190555.0,151.0,2023
+The Fate of the Furious,2017-04-13,Thriller,1238764765.0,136.0,2017
+Dragon Ball Z: Broly – The Legendary Super Saiyan,1993-03-06,Action,21658982.0,70.0,1993
+Spider-Man: Into the Spider-Verse,2018-12-06,Science Fiction,375540831.0,117.0,2018
+John Wick,2014-10-22,Thriller,88761661.0,101.0,2014
+Toy Story 2,1999-11-24,Family,497366869.0,92.0,1999
+Spider-Man: Homecoming,2017-07-06,Drama,880166924.0,133.0,2017
+Nope,2022-08-18,Thriller,170823080.0,130.0,2022
+Barbarian,2022-10-26,Thriller,44422431.0,103.0,2022
+World War Z,2013-06-21,Thriller,531865000.0,116.0,2013
+Pirates of the Caribbean: At World's End,2007-05-19,Action,961000000.0,169.0,2007
+Captain America: Civil War,2016-05-05,Science Fiction,1153337496.0,147.0,2016
+Fury,2014-10-21,Action,211817906.0,135.0,2014
+Frozen,2013-11-28,Fantasy,1274219009.0,102.0,2013
+Legion,2010-01-22,Fantasy,67918658.0,100.0,2010
+Hercules,1997-06-27,Romance,252712101.0,93.0,1997
+The Amazing Spider-Man,2012-06-29,Fantasy,757930663.0,136.0,2012
+The Addams Family,2019-10-31,Horror,203044905.0,86.0,2019
+Inside Out,2015-08-27,Comedy,857611174.0,95.0,2015
+The Hobbit: The Battle of the Five Armies,2014-12-16,Fantasy,956019788.0,144.0,2014
+Transformers: Age of Extinction,2014-06-26,Adventure,1104054072.0,165.0,2014
+Sex and Zen,1991-11-30,Romance,396003.0,99.0,1991
+Paws of Fury: The Legend of Hank,2022-07-21,Western,41800000.0,98.0,2022
+Bloodshot,2020-03-12,Science Fiction,39861118.0,110.0,2020
+Frozen II,2019-11-21,Fantasy,1450026933.0,103.0,2019
+Finding Nemo,2003-06-06,Family,940335536.0,100.0,2003
+The Amazing Spider-Man 2,2014-05-01,Fantasy,708962323.0,141.0,2014
+The Help,2011-09-22,Drama,216639112.0,146.0,2011
+Free Guy,2021-08-12,Science Fiction,331096766.0,115.0,2021
+Jurassic World: Fallen Kingdom,2018-06-22,Thriller,1310466296.0,129.0,2018
+The Conjuring 2,2016-06-09,Thriller,320392818.0,134.0,2016
+Inception,2010-07-15,Adventure,825532764.0,148.0,2010
+Tinker Bell and the Pirate Fairy,2014-04-01,Family,20300000.0,78.0,2014
+The King's Man,2021-12-30,Mystery,125928656.0,131.0,2021
+Mulan,1998-06-19,Adventure,304320254.0,88.0,1998
+Bones and All,2022-11-24,Horror,14134907.0,131.0,2022
+Old,2021-08-12,Horror,90112510.0,108.0,2021
+The Twilight Saga: Breaking Dawn - Part 1,2011-11-17,Romance,712171856.0,117.0,2011
+Ant-Man and the Wasp,2018-07-06,Science Fiction,622674139.0,119.0,2018
+Spider-Man,2002-05-03,Action,821708551.0,121.0,2002
+Furious 7,2015-04-03,Crime,1515047671.0,137.0,2015
+Zootopia,2016-03-03,Comedy,1023784195.0,109.0,2016
+Countdown,2019-10-31,Thriller,48021766.0,90.0,2019
+Wonder Woman 1984,2020-12-17,Fantasy,165160005.0,151.0,2020
+Doctor Strange,2016-11-04,Fantasy,677796076.0,115.0,2016
+Kama Sutra: A Tale of Love,1997-05-08,Romance,4109095.0,117.0,1997
+xXx: Return of Xander Cage,2017-01-20,Crime,346147658.0,107.0,2017
+The Contractor,2022-03-10,Thriller,2122288.0,103.0,2022
+San Andreas,2015-05-28,Thriller,473990832.0,114.0,2015
+Ambulance,2022-03-17,Crime,51783040.0,136.0,2022
+Spider-Man: Far from Home,2019-07-02,Science Fiction,1131927996.0,129.0,2019
+Trial by Fire,2019-05-17,Crime,130000.0,127.0,2019
+Cinderella,1950-02-22,Romance,263591415.0,74.0,1950
+Grown Ups,2010-06-24,Comedy,271430189.0,102.0,2010
+Thor: Ragnarok,2017-11-03,Comedy,853977126.0,131.0,2017
+2012,2009-10-10,Science Fiction,791217826.0,158.0,2009
+Don't Worry Darling,2022-09-22,Science Fiction,86669039.0,123.0,2022
+Raya and the Last Dragon,2021-03-05,Adventure,130000000.0,107.0,2021
+Charlie and the Chocolate Factory,2005-08-04,Fantasy,474968763.0,115.0,2005
+Transformers: The Last Knight,2017-06-21,Science Fiction,605425157.0,154.0,2017
+The Lion King,2019-07-18,Family,1667635327.0,118.0,2019
+Dragon Ball Z: Wrath of the Dragon,1995-07-15,Science Fiction,24000000.0,,1995
+Jungle Cruise,2021-07-29,Fantasy,220889446.0,127.0,2021
+Triangle of Sadness,2022-10-20,Drama,15100000.0,147.0,2022
+Joker,2019-10-03,Drama,1074251311.0,122.0,2019
+Howl's Moving Castle,2004-11-19,Adventure,236049757.0,119.0,2004
+Space Jam: A New Legacy,2021-07-15,Science Fiction,162892228.0,115.0,2021
+Elvis,2022-06-23,History,286000000.0,159.0,2022
+The Witch: Part 2. The Other One,2022-06-15,Science Fiction,23000000.0,137.0,2022
+Terminator Genisys,2015-06-24,Adventure,440603537.0,126.0,2015
+The Last Warrior: Root of Evil,2021-01-01,Comedy,27658331.0,,2021
+Jurassic World,2015-06-10,Thriller,1671713208.0,124.0,2015
+The Parent Trap,1998-07-29,Family,92108518.0,128.0,1998
+Thor,2011-04-28,Action,449326618.0,115.0,2011
+My Hero Academia: Heroes Rising,2020-07-13,Adventure,29900850.0,104.0,2020
+Pirates of the Caribbean: Dead Man's Chest,2006-07-13,Action,1065659812.0,151.0,2006
+Spirited Away,2001-12-20,Fantasy,274925095.0,125.0,2001
+The Hunchback of Notre Dame,1996-06-21,Family,325338851.0,91.0,1996
+Forrest Gump,2018-11-30,Romance,677387716.0,142.0,2018
+Aftersun,2023-01-12,Drama,3700000.0,102.0,2023
+Real Steel,2011-10-06,Drama,299268508.0,127.0,2011
+Taken 3,2015-01-07,Action,325771424.0,109.0,2015
+Godzilla,2014-05-16,Science Fiction,529076069.0,123.0,2014
+The SpongeBob Movie: Sponge on the Run,2020-11-05,Comedy,4700000.0,95.0,2020
+Mean Girls,2004-04-30,Comedy,130126277.0,97.0,2004
+The Remaining,2014-09-05,Horror,1169603.0,88.0,2014
+Venom,2018-10-04,Action,855013954.0,112.0,2018
+The Requin,2022-01-28,Horror,130493.0,89.0,2022
+Percy Jackson & the Olympians: The Lightning Thief,2010-02-12,Family,226497209.0,118.0,2010
+Beauty and the Beast,1991-11-22,Fantasy,424967620.0,84.0,1991
+The Lord of the Rings: The Return of the King,2003-12-18,Action,1118888979.0,201.0,2003
+The Unholy,2021-04-15,Mystery,30833138.0,99.0,2021
+Roald Dahl's The Witches,2020-10-22,Horror,26900000.0,106.0,2020
+Spider-Man 3,2007-05-03,Adventure,890871626.0,139.0,2007
+Ready Player One,2018-03-29,Action,582890172.0,140.0,2018
+Star Wars,1997-05-29,Science Fiction,775398007.0,121.0,1997
+Teenage Mutant Ninja Turtles,2014-08-07,Comedy,485004754.0,101.0,2014
+The Hangover,2009-06-05,Comedy,469310836.0,100.0,2009
+Knives Out,2019-11-27,Mystery,309232797.0,131.0,2019
+Iron Man,2008-04-30,Adventure,585174222.0,126.0,2008
+Addams Family Values,1993-11-19,Fantasy,48919043.0,94.0,1993
+Ice Age: Dawn of the Dinosaurs,2009-07-01,Adventure,886686817.0,94.0,2009
+Fantastic Beasts and Where to Find Them,2016-11-18,Fantasy,809342332.0,132.0,2016
+Dragon Ball Z: Battle of Gods,2013-03-30,Science Fiction,50461371.0,85.0,2013
+The Shack,2017-03-03,Fantasy,92924405.0,132.0,2017
+Blacklight,2022-02-24,Thriller,15400000.0,104.0,2022
+Scary Movie,2000-07-13,Comedy,278019771.0,88.0,2000
+The Nun,2018-09-07,Thriller,365550119.0,96.0,2018
+Soul,2020-12-25,Drama,136384442.0,101.0,2020
+The Grandmother,2022-04-06,Horror,1817696.0,101.0,2022
+The Truman Show,1998-10-01,Drama,264118201.0,103.0,1998
+The Dark Knight,2008-07-17,Thriller,1004558444.0,152.0,2008
+The Evil Dead,1981-10-15,Horror,29400000.0,85.0,1981
+Kung Fu Panda,2008-06-06,Comedy,631744560.0,90.0,2008
+It Chapter Two,2019-09-05,Fantasy,473122525.0,169.0,2019
+Cinderella,2015-03-13,Drama,543514353.0,105.0,2015
+Train to Busan,2016-08-04,Action,87547518.0,118.0,2016
+My Hero Academia: Two Heroes,2018-08-03,Fantasy,31478826.0,96.0,2018
+Toy Story 4,2019-06-20,Fantasy,1073394593.0,100.0,2019
+The Nightmare Before Christmas,1993-10-29,Family,75634409.0,76.0,1993
+Terminator 2: Judgment Day,1991-07-03,Science Fiction,520000000.0,137.0,1991
+TÁR,2023-01-26,Music,5250783.0,158.0,2023
+The Roundup,2022-05-26,Crime,100130688.0,106.0,2022
+Dragon Ball Z: Broly – Second Coming,1994-03-12,Science Fiction,24200000.0,,1994
+Fight Club,1999-11-04,Comedy,100853753.0,139.0,1999
+Brothers,2010-01-21,War,43318349.0,105.0,2010
+American Wedding,2003-10-09,Romance,231449203.0,103.0,2003
+Jumanji: The Next Level,2019-12-05,Fantasy,800059707.0,123.0,2019
+Split,2016-11-15,Thriller,278454358.0,117.0,2016
+How to Train Your Dragon 2,2014-06-19,Family,621537500.0,102.0,2014
+No Time to Die,2021-09-30,Thriller,774153007.0,163.0,2021
+Hidden Figures,2017-02-23,History,235956898.0,127.0,2017
+Madagascar,2005-05-27,Comedy,542063846.0,86.0,2005
+How to Train Your Dragon,2010-03-25,Family,494878759.0,98.0,2010
+A Quiet Place,2018-04-06,Science Fiction,340952971.0,91.0,2018
+Good Will Hunting,1997-12-05,Drama,225933435.0,127.0,1997
+Cars,2006-06-08,Family,461983149.0,117.0,2006
+Bad Boys for Life,2020-01-23,Crime,426505244.0,124.0,2020
+Wrong Turn,2021-01-29,Thriller,3777969.0,110.0,2021
+Kung Fu Panda 3,2016-03-17,Family,521170825.0,95.0,2016
+The Hobbit: An Unexpected Journey,2012-12-13,Action,1021103568.0,169.0,2012
+Creed,2015-11-26,Action,173567581.0,133.0,2015
+The Notebook,2004-06-25,Drama,115603229.0,123.0,2004
+The Penitent Thief,2020-12-22,Drama,23800.0,93.0,2020
+Toy Story 3,2010-06-17,Comedy,1066969703.0,103.0,2010
+The Lord of the Rings: The Two Towers,2002-12-18,Action,926287400.0,179.0,2002
+The Outfit,2022-03-18,Thriller,4026709.0,105.0,2022
+Tarzan,1999-06-18,Drama,448191819.0,88.0,1999
+Wrong Turn,2003-05-30,Thriller,28650575.0,84.0,2003
+Snow White and the Seven Dwarfs,1945-10-31,Family,184925486.0,83.0,1945
+Deadpool 2,2018-05-10,Adventure,786365638.0,,2018
+The Mummy,1999-06-17,Fantasy,415885488.0,124.0,1999
+The Simpsons Movie,2007-07-27,Family,527068851.0,87.0,2007
+The Forever Purge,2021-08-26,Thriller,76994245.0,103.0,2021
+Back to the Future,1985-07-03,Science Fiction,381109762.0,116.0,1985
+Heat,1995-12-15,Thriller,187436818.0,170.0,1995
+Incantation,2022-07-08,Horror,5700000.0,111.0,2022
+Tom & Jerry,2021-02-11,Animation,132000000.0,101.0,2021
+Penguins of Madagascar,2014-11-26,Comedy,373552094.0,92.0,2014
+Iron Man 3,2013-04-25,Science Fiction,1214811252.0,130.0,2013
+Pacific Rim,2013-07-11,Adventure,407602906.0,131.0,2013
+Corpse Bride,2005-09-29,Animation,118133252.0,77.0,2005
+A Bug's Life,1998-12-04,Family,363258859.0,95.0,1998
+Pulp Fiction,2011-04-18,Crime,214179088.0,154.0,2011
+Logan,2017-03-02,Science Fiction,619021436.0,137.0,2017
+Jeepers Creepers 2,2003-10-31,Horror,63102666.0,104.0,2003
+Nobody,2021-04-22,Thriller,61779301.0,92.0,2021
+Maze Runner: The Scorch Trials,2015-09-10,Adventure,312296056.0,131.0,2015
+Kung Fu Panda 2,2011-05-25,Family,665692281.0,91.0,2011
+Scary Movie 2,2001-08-02,Comedy,141220678.0,83.0,2001
+Naruto Shippuden the Movie: Blood Prison,2011-07-30,Mystery,9100000.0,108.0,2011
+American Psycho,2000-04-14,Crime,34266564.0,102.0,2000
+Monsters University,2013-06-20,Family,743559607.0,104.0,2013
+Apocalypto,2006-12-08,History,120654337.0,139.0,2006
+Brave,2012-08-08,Fantasy,538983207.0,93.0,2012
+Monster Hunter,2020-12-24,Adventure,42145959.0,104.0,2020
+Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020-02-06,Crime,201858461.0,109.0,2020
+The Adventures of Sharkboy and Lavagirl,2005-06-10,Science Fiction,71992655.0,92.0,2005
+Abraham Lincoln: Vampire Hunter,2012-07-05,Horror,116471580.0,105.0,2012
+Scary Movie 5,2013-04-12,Comedy,78378744.0,86.0,2013
+The Dark Knight Rises,2012-07-19,Thriller,1081041287.0,165.0,2012
+Evil Dead,2013-05-08,Horror,97542952.0,96.0,2013
+Aquaman,2018-12-13,Fantasy,1148528393.0,143.0,2018
+Parasite,2019-06-27,Drama,257591776.0,133.0,2019
+Bride of Chucky,1998-10-16,Horror,50671850.0,89.0,1998
+Taken,2009-01-30,Thriller,226830568.0,94.0,2009
+Blended,2014-06-04,Comedy,127994610.0,117.0,2014
+Wreck-It Ralph,2012-12-20,Adventure,471222889.0,101.0,2012
+The Twilight Saga: New Moon,2009-11-20,Romance,709827462.0,131.0,2009
+Death Race,2008-09-26,Science Fiction,76014335.0,105.0,2008
+Batman v Superman: Dawn of Justice,2016-03-25,Fantasy,873637528.0,152.0,2016
+Sing,2016-12-21,Music,634151679.0,108.0,2016
+Knowing,2009-03-20,Thriller,155446362.0,121.0,2009
+Maze Runner: The Death Cure,2018-01-26,Thriller,288175335.0,143.0,2018
+Chernobyl: Abyss,2022-04-15,Mystery,6459306.0,136.0,2022
+Project X,2012-03-02,Comedy,102731865.0,88.0,2012
+The Intouchables,2012-12-13,Comedy,426588510.0,113.0,2012
+Thor: The Dark World,2013-11-14,Fantasy,644571402.0,112.0,2013
+Pearl,2022-09-16,Horror,9423445.0,102.0,2022
+Ron's Gone Wrong,2021-10-21,Comedy,60000000.0,107.0,2021
+Spirit: Stallion of the Cimarron,2002-05-24,Drama,122563539.0,83.0,2002
+The Jungle Book,1967-10-18,Adventure,205843612.0,78.0,1967
+Despicable Me,2010-07-08,Crime,533679475.0,95.0,2010
+The Meg,2018-08-09,Horror,530243742.0,113.0,2018
+Predator,1987-06-12,Thriller,98267558.0,107.0,1987
+Ava,2020-09-25,Thriller,2987741.0,96.0,2020
+The Hangover Part II,2011-06-02,Comedy,586764305.0,102.0,2011
+Mad Max: Fury Road,2015-05-14,Science Fiction,378858340.0,121.0,2015
+The Equalizer,2014-09-25,Crime,192330738.0,132.0,2014
+Lilo & Stitch,2002-06-21,Family,273144151.0,85.0,2002
+Shazam!,2019-04-04,Fantasy,366080049.0,132.0,2019
+Guardians of the Galaxy Vol. 2,2017-04-27,Science Fiction,863756051.0,137.0,2017
+Incredibles 2,2018-06-15,Family,1242805359.0,118.0,2018
+Fruitvale Station,2013-07-26,Drama,17549645.0,82.0,2013
+Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-26,Fantasy,794861794.0,128.0,2017
+Dragon Ball Z: Cooler's Revenge,1991-07-20,Science Fiction,16331742.0,,1991
+Scooby-Doo,2002-06-14,Comedy,275650703.0,88.0,2002
+Aladdin,1992-11-25,Romance,504050219.0,90.0,1992
+Mulan,2020-03-09,Action,66800000.0,115.0,2020
+Scream,1997-08-14,Mystery,173046663.0,112.0,1997
+Despicable Me 2,2013-07-03,Family,970761885.0,98.0,2013
+Taken 2,2012-10-04,Thriller,376141306.0,91.0,2012
+Don't Breathe 2,2021-11-11,Horror,53785551.0,98.0,2021
+Hatching,2022-03-04,Fantasy,490000.0,91.0,2022
+Ava,2017-06-21,Drama,500000.0,106.0,2017
+Scarface,1983-12-09,Drama,66023329.0,169.0,1983
+Meet Joe Black,1998-11-12,Romance,142940100.0,178.0,1998
+Man of Steel,2013-06-13,Science Fiction,754045518.0,143.0,2013
+"Salò, or the 120 Days of Sodom",2003-05-01,Horror,22017.0,117.0,2003
+Where the Crawdads Sing,2022-09-22,Thriller,127000000.0,125.0,2022
+Dawn of the Planet of the Apes,2014-07-17,Thriller,710644566.0,130.0,2014
+The Addams Family,2000-02-22,Fantasy,191502426.0,102.0,2000
+The Grinch,2018-11-09,Fantasy,508575295.0,85.0,2018
+Lolita,1997-09-27,Drama,1071255.0,137.0,1997
+How the Grinch Stole Christmas,2000-11-17,Fantasy,345823040.0,104.0,2000
+Captain Marvel,2019-03-07,Science Fiction,1128276090.0,124.0,2019
+Just Go with It,2011-02-11,Romance,214945591.0,117.0,2011
+Jumanji: Welcome to the Jungle,2017-12-20,Fantasy,962102237.0,119.0,2017
+Insurgent,2015-03-20,Thriller,295238201.0,119.0,2015
+Dragon Ball Z: Bojack Unbound,1993-07-10,Science Fiction,20100000.0,,1993
+Beauty and the Beast,2017-03-16,Romance,1263521126.0,129.0,2017
+The Blind Side,2009-11-20,Drama,309208309.0,129.0,2009
+Vesper,2022-10-06,Adventure,889529.0,112.0,2022
+Ice Age: The Meltdown,2006-03-30,Adventure,660998756.0,91.0,2006
+Madagascar 3: Europe's Most Wanted,2012-06-07,Adventure,746921274.0,93.0,2012
+Ted,2012-09-13,Fantasy,549368315.0,107.0,2012
+Whiplash,2014-10-10,Music,13092000.0,107.0,2014
+Pacific Rim: Uprising,2018-03-23,Adventure,290061297.0,111.0,2018
+Love & Other Drugs,2010-11-24,Romance,102820008.0,112.0,2010
+The Passion of the Christ,2004-04-01,Drama,611899420.0,127.0,2004
+Matilda,1996-08-02,Fantasy,33459416.0,98.0,1996
+Annabelle Comes Home,2019-06-26,Thriller,231252591.0,106.0,2019
+Maleficent,2014-05-29,Romance,758539785.0,97.0,2014
+Maleficent: Mistress of Evil,2019-10-17,Action,491730089.0,119.0,2019
+Justice League,2017-11-16,Science Fiction,657926987.0,,2017
+White Chicks,2004-06-23,Crime,113086475.0,109.0,2004
+Crank,2006-08-31,Crime,42931041.0,88.0,2006
+Madagascar: Escape 2 Africa,2008-11-06,Comedy,603900354.0,89.0,2008
+Baby Driver,2017-07-20,Crime,226945087.0,113.0,2017
+Pokémon Detective Pikachu,2019-05-09,Fantasy,433005346.0,105.0,2019
+Brother Bear,2003-10-23,Family,250397798.0,85.0,2003
+Snake Eyes: G.I. Joe Origins,2021-07-22,Adventure,36964325.0,121.0,2021
+Crank: High Voltage,2009-04-16,Crime,34560577.0,96.0,2009
+Teen Wolf,1985-08-23,Romance,80000000.0,91.0,1985
+Dinosaur,2000-05-19,Animation,354248063.0,82.0,2000
+A Silent Voice: The Movie,2017-03-09,Drama,30156463.0,130.0,2017
+Orphan,2009-08-13,Mystery,77912251.0,123.0,2009
+Power Rangers,2017-03-24,Science Fiction,142337240.0,124.0,2017
+Prometheus,2012-06-07,Mystery,403354469.0,124.0,2012
+Ice Age: Continental Drift,2012-07-12,Family,877244782.0,88.0,2012
+Journey 2: The Mysterious Island,2012-02-10,Science Fiction,355692760.0,94.0,2012
+Pixels,2015-08-13,Science Fiction,244874809.0,105.0,2015
+Shutter Island,2010-02-18,Mystery,294800000.0,138.0,2010
+Greenland,2020-08-13,Drama,52300000.0,,2020
+Kingsman: The Secret Service,2015-02-12,Adventure,414351546.0,129.0,2015
+Hancock,2008-07-01,Action,629443428.0,92.0,2008
+Inglourious Basterds,2009-08-21,War,321457747.0,153.0,2009
+Rio,2011-04-07,Family,484635760.0,96.0,2011
+Dragon Ball Z: Fusion Reborn,1995-03-04,Science Fiction,23500000.0,,1995
+BTS: Yet To Come in Cinemas,2023-02-01,Music,9100000.0,103.0,2023
+The Unbearable Weight of Massive Talent,2022-04-21,Crime,29116320.0,107.0,2022
+Black Water: Abyss,2020-08-07,Adventure,1117982.0,98.0,2020
+It,2017-09-07,Fantasy,701842551.0,135.0,2017
+The Hunger Games: Catching Fire,2013-11-21,Science Fiction,865011746.0,146.0,2013
+Call Me by Your Name,2018-01-25,Drama,41063475.0,132.0,2018
+Troy,2004-05-14,Action,497409852.0,163.0,2004
+The Incredibles,2004-11-18,Family,631442092.0,115.0,2004
+The Hunger Games: Mockingjay - Part 2,2015-11-19,Science Fiction,653428261.0,137.0,2015
+The Godfather Part II,1974-12-20,Crime,102600000.0,202.0,1974
+Star Wars: The Force Awakens,2015-12-17,Fantasy,2068223624.0,136.0,2015
+Pokemon the Movie: Mewtwo Strikes Back - Evolution,2020-02-27,Family,26654184.0,98.0,2020
+WALL·E,2008-08-28,Science Fiction,521311860.0,98.0,2008
+"Love, Rosie",2015-02-06,Romance,4439431.0,102.0,2015
+Aladdin,2019-05-23,Family,1047612394.0,127.0,2019
+Saving Private Ryan,1998-09-17,War,481840909.0,169.0,1998
+Knock Knock,2015-09-23,Horror,6341684.0,99.0,2015
+Chicken Run,2000-06-30,Family,224834564.0,84.0,2000
+Army of the Dead,2021-05-21,Thriller,780000.0,148.0,2021
+Jupiter Ascending,2015-02-25,Action,183987723.0,127.0,2015
+Sex Tape,2014-08-06,Comedy,126069509.0,97.0,2014
+The Burning Sea,2021-10-29,Thriller,2836382.0,104.0,2021
+Below Her Mouth,2017-02-10,Romance,33673.0,92.0,2017
+Alien,1979-10-31,Science Fiction,104931801.0,117.0,1979
+Shut In,2022-02-10,Drama,304106.0,90.0,2022
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996-01-12,Comedy,20109115.0,89.0,1996
+King,2022-02-16,Family,2551835.0,105.0,2022
+Ponyo,2008-07-19,Family,202404009.0,100.0,2008
+X-Men: Apocalypse,2016-05-19,Fantasy,543934787.0,144.0,2016
+42,2013-04-12,Drama,95020213.0,128.0,2013
+Nightmare Alley,2022-01-13,Thriller,39629195.0,150.0,2022
+The Hangover Part III,2013-05-23,Comedy,362000072.0,100.0,2013
+Law Abiding Citizen,2009-10-15,Thriller,127944208.0,109.0,2009
+Mission: Impossible - Fallout,2018-08-31,Adventure,791657398.0,147.0,2018
+Garfield,2004-10-19,Family,200804534.0,80.0,2004
+Star Wars: The Last Jedi,2017-12-15,Science Fiction,1332698830.0,152.0,2017
+Baywatch,2017-05-26,Crime,177856751.0,116.0,2017
+"The Good, the Bad and the Ugly",2009-08-04,Western,25253887.0,161.0,2009
+American Pie Presents: The Book of Love,2009-12-04,Comedy,5021219.0,93.0,2009
+Gold,2022-01-13,Drama,176048.0,97.0,2022
+Shark Tale,2004-11-04,Family,367275019.0,90.0,2004
+Terminator Salvation,2009-06-03,Thriller,371353001.0,117.0,2009
+Constantine,2005-02-08,Horror,230884728.0,121.0,2005
+The SpongeBob SquarePants Movie,2005-03-17,Action,140161792.0,87.0,2005
+The Hobbit: The Desolation of Smaug,2013-12-12,Action,958400000.0,161.0,2013
+The Incredible Hulk,2008-06-12,Adventure,163712074.0,114.0,2008
+Spirit Halloween: The Movie,2022-09-30,Adventure,93434.0,87.0,2022
+Alita: Battle Angel,2019-02-05,Adventure,404980000.0,122.0,2019
+Belle,2021-11-18,Family,63501160.0,122.0,2021
+The Mummy Returns,2001-05-24,Fantasy,443280904.0,130.0,2001
+(500) Days of Summer,2009-10-08,Romance,60781545.0,95.0,2009
+Gladiator,2000-05-05,Adventure,465361176.0,155.0,2000
+The Proposal,2009-06-01,Drama,317375031.0,108.0,2009
+Dragon Ball Z: Super Android 13!,1992-07-11,Science Fiction,18554927.0,,1992
+War Dogs,2016-08-19,Drama,86234523.0,114.0,2016
+Amsterdam,2022-10-06,Mystery,24211191.0,134.0,2022
+Rush Hour 2,2001-08-03,Crime,347325802.0,90.0,2001
+The Croods,2013-03-28,Action,587204668.0,98.0,2013
+Arrival,2017-01-12,Mystery,203388186.0,116.0,2017
+Friday,1995-04-26,Comedy,28215918.0,91.0,1995
+Pinocchio,1940-02-23,Family,84300000.0,88.0,1940
+Rambo,2008-01-25,Thriller,113244290.0,92.0,2008
+The Equalizer 2,2018-07-20,Crime,190400157.0,121.0,2018
+Jack Reacher,2013-01-10,Action,218340595.0,130.0,2013
+Ice Age: Collision Course,2016-06-30,Science Fiction,408579038.0,95.0,2016
+Jolt,2021-07-23,Thriller,238524.0,91.0,2021
+Willy's Wonderland,2021-02-12,Comedy,431020.0,88.0,2021
+Kingsman: The Golden Circle,2017-09-21,Crime,410902662.0,141.0,2017
+Alice in Wonderland,2010-03-04,Adventure,1025467110.0,108.0,2010
+Clash of the Titans,2010-04-02,Action,493214993.0,106.0,2010
+Exodus: Gods and Kings,2014-12-05,Action,268031828.0,150.0,2014
+Star Wars: The Rise of Skywalker,2019-12-19,Science Fiction,1074144248.0,142.0,2019
+Wonder Woman,2017-05-31,Fantasy,822854286.0,141.0,2017
+Wish Dragon,2021-06-11,Fantasy,25860000.0,99.0,2021
+"The Gangster, the Cop, the Devil",2019-05-23,Adventure,25775371.0,110.0,2019
+The Autopsy of Jane Doe,2016-12-21,Mystery,5972942.0,86.0,2016
+Eternal Sunshine of the Spotless Mind,2004-03-19,Romance,72258126.0,108.0,2004
+The Terminator,1984-10-26,Science Fiction,78371200.0,108.0,1984
+Let's Be Cops,2014-08-13,Comedy,136621271.0,104.0,2014
+Rurouni Kenshin: The Final,2021-06-18,Drama,33457923.0,138.0,2021
+Shooter,2007-03-22,Crime,95696996.0,124.0,2007
+Ninja Assassin,2009-12-10,Thriller,61601280.0,99.0,2009
+Road to Ninja: Naruto the Movie,2012-07-28,Action,17900000.0,109.0,2012
+National Lampoon's Vacation,1983-07-28,Adventure,61399552.0,99.0,1983
+Bambi,1942-08-14,Family,267447150.0,70.0,1942
+Rambo: Last Blood,2019-09-19,Drama,91490353.0,89.0,2019
+The Exorcist,2006-10-10,Horror,441405644.0,122.0,2006
+Godzilla: King of the Monsters,2019-05-30,Action,386600138.0,132.0,2019
+Miracles from Heaven,2016-03-18,Drama,73983359.0,119.0,2016
+The Good Dinosaur,2015-11-26,Family,332207671.0,93.0,2015
+The Protector,2005-11-03,Thriller,27165581.0,111.0,2005
+Colombiana,2011-10-13,Drama,60965854.0,108.0,2011
+Yu-Gi-Oh!: The Dark Side of Dimensions,2016-04-23,Animation,1015339.0,130.0,2016
+Pain & Gain,2013-04-26,Comedy,87305549.0,130.0,2013
+The Emperor's New Groove,2000-12-15,Fantasy,169327687.0,78.0,2000
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016-06-02,Science Fiction,245623848.0,112.0,2016
+Hereditary,2018-06-21,Thriller,80239658.0,128.0,2018
+The Wizard of Oz,1939-08-25,Family,33754967.0,102.0,1939
+American Pie,1999-09-09,Romance,235483004.0,95.0,1999
+Naruto Shippuden the Movie: Bonds,2008-08-02,Action,10600000.0,90.0,2008
+Final Destination,2000-05-18,Horror,112880294.0,98.0,2000
+Ready or Not,2019-08-22,Thriller,57615777.0,95.0,2019
+Trading Places,2008-06-03,Comedy,90404800.0,116.0,2008
+Sicario,2015-09-17,Thriller,84872444.0,122.0,2015
+22 Jump Street,2014-07-24,Action,331333876.0,112.0,2014
+Rush Hour,1998-09-18,Crime,244721064.0,98.0,1998
+Captain America: The First Avenger,2011-07-22,Science Fiction,370569774.0,124.0,2011
+Along with the Gods: The Two Worlds,2017-12-20,Action,125983972.0,139.0,2017
+Ralph Breaks the Internet,2018-11-22,Adventure,529221154.0,112.0,2018
+Host,2020-07-30,Mystery,26745.0,,2020
+"Argentina, 1985",2022-10-21,History,871621.0,141.0,2022
+War for the Planet of the Apes,2017-07-13,War,490719763.0,140.0,2017
+The Fly,1986-08-15,Science Fiction,60629159.0,96.0,1986
+The Secret Life of Pets 2,2019-05-30,Family,155152550.0,86.0,2019
+Schindler's List,2019-01-24,War,321365567.0,195.0,2019
+Tenet,2020-08-27,Science Fiction,363129000.0,150.0,2020
+Season of the Witch,2011-01-07,Action,91627228.0,95.0,2011
+Ticket to Paradise,2022-10-06,Comedy,160542536.0,104.0,2022
+One Shot,2022-01-29,Action,29439.0,97.0,2022
+Lucy,2014-08-20,Science Fiction,458863600.0,89.0,2014
+A Haunted House,2013-01-31,Horror,60141683.0,86.0,2013
+The Marksman,2021-02-25,Drama,23076711.0,108.0,2021
+Miss Peregrine's Home for Peculiar Children,2016-09-30,Drama,296482446.0,127.0,2016
+The Sword in the Stone,1963-12-25,Family,22182353.0,79.0,1963
+Glass,2019-01-17,Science Fiction,246941965.0,129.0,2019
+Superbad,2007-08-17,Comedy,170812526.0,113.0,2007
+Catch Me If You Can,2003-01-30,Crime,352114312.0,141.0,2003
+Five Feet Apart,2019-03-21,Drama,92600000.0,116.0,2019
+Mission: Impossible - Ghost Protocol,2011-12-15,Adventure,694713380.0,133.0,2011
+Don't Look Up,2021-12-24,Science Fiction,791863.0,138.0,2021
+Happy Feet,2006-11-23,Family,384335608.0,108.0,2006
+Dragon Ball Z: The World's Strongest,1990-03-10,Science Fiction,18000000.0,,1990
+Terminator: Dark Fate,2019-10-24,Action,261119292.0,128.0,2019
+The Devil Wears Prada,2006-08-31,Romance,326551094.0,109.0,2006
+In Time,2011-10-28,Science Fiction,173930596.0,109.0,2011
+Taxi Driver,1976-02-09,Drama,28570902.0,114.0,1976
+American Reunion,2012-04-05,Comedy,234989584.0,113.0,2012
+A Dog's Journey,2019-05-16,Drama,2520000.0,109.0,2019
+Annabelle: Creation,2017-08-09,Thriller,306515884.0,110.0,2017
+Halloween Kills,2021-10-28,Thriller,131647155.0,105.0,2021
+Suicide Squad,2016-08-04,Fantasy,746846894.0,123.0,2016
+The Expendables,2010-08-19,Action,274470394.0,103.0,2010
+Planet of the Apes,1968-02-07,Action,32589624.0,112.0,1968
+Vanguard,2020-09-30,Crime,27900000.0,107.0,2020
+50 First Dates,2004-04-22,Romance,196482882.0,99.0,2004
+Gone Girl,2014-10-01,Drama,369330363.0,149.0,2014
+Dragon Ball Z: The Tree of Might,1990-06-07,Science Fiction,15000000.0,61.0,1990
+Scouts Guide to the Zombie Apocalypse,2015-10-29,Horror,14860766.0,93.0,2015
+No Manches Frida,2016-09-15,Comedy,12421716.0,100.0,2016
+The Aristocats,1970-12-24,Adventure,55675257.0,78.0,1970
+The Little Things,2021-01-28,Thriller,29942746.0,128.0,2021
+The Iron Giant,1999-12-16,Drama,23159305.0,86.0,1999
+Sleeping Beauty,1959-02-17,Family,51600000.0,75.0,1959
+The Imitation Game,2014-12-19,War,233555708.0,113.0,2014
+Alice in Wonderland,1951-07-28,Adventure,572000000.0,75.0,1951
+Dragon Ball Z: The Return of Cooler,1992-03-07,Science Fiction,19581369.0,,1992
+Naruto Shippuden the Movie: The Will of Fire,2009-08-01,Animation,8084148.0,95.0,2009
+A Monster Calls,2017-01-06,Fantasy,47309313.0,108.0,2017
+Violet Evergarden: The Movie,2020-09-18,Drama,20339624.0,140.0,2020
+Final Destination 5,2011-08-12,Mystery,157887643.0,92.0,2011
+Rango,2011-03-03,Adventure,245724603.0,107.0,2011
+Spirit Untamed,2021-06-04,Western,17635215.0,88.0,2021
+Bridge to Terabithia,2007-02-16,Family,137587063.0,96.0,2007
+American Pie Presents: Beta House,2007-12-10,Comedy,18610260.0,85.0,2007
+Megamind,2010-11-04,Science Fiction,321885765.0,96.0,2010
+Child's Play,1988-11-09,Horror,44196684.0,87.0,1988
+X-Men: Days of Future Past,2014-05-22,Science Fiction,747862775.0,132.0,2014
+The Town,2010-10-21,Thriller,154026136.0,125.0,2010
+The 355,2022-01-13,Thriller,55700000.0,122.0,2022
+Close,2022-11-02,Drama,3129968.0,104.0,2022
+The Longest Yard,2005-09-08,Comedy,190320568.0,113.0,2005
+Alien: Covenant,2017-05-09,Mystery,240891763.0,122.0,2017
+Peter Pan,1953-02-05,Fantasy,87404651.0,77.0,1953
+The Martian,2015-10-01,Science Fiction,630161890.0,141.0,2015
+Pretty Baby,1978-04-05,Drama,5786368.0,110.0,1978
+The Return of the Living Dead,1985-08-16,Comedy,14237880.0,91.0,1985
+Dynasty Warriors,2021-07-01,Fantasy,3310000.0,118.0,2021
+Hotel Transylvania 3: Summer Vacation,2018-06-30,Fantasy,528600000.0,97.0,2018
+Rise of the Guardians,2012-11-22,Adventure,306941670.0,97.0,2012
+I Am Legend,2007-12-14,Thriller,585410052.0,101.0,2007
+Southpaw,2015-07-23,Drama,91709827.0,123.0,2015
+Nymphomaniac: Vol. II,2013-12-25,Mystery,4934725.0,124.0,2013
+Kong: Skull Island,2017-03-10,Fantasy,566652812.0,118.0,2017
+CODA,2021-08-13,Romance,1600000.0,112.0,2021
+Aliens,1986-07-18,Science Fiction,183316455.0,137.0,1986
+Sicario: Day of the Soldado,2018-07-19,Thriller,75836683.0,122.0,2018
+Life Is Beautiful,1997-12-20,Drama,230098753.0,116.0,1997
+Rambo: First Blood Part II,1985-05-21,War,300400432.0,96.0,1985
+Predators,2010-07-03,Thriller,127233108.0,107.0,2010
+Rampage,2018-04-13,Science Fiction,428028233.0,107.0,2018
+Monsters vs Aliens,2009-05-28,Science Fiction,381509870.0,94.0,2009
+The Karate Kid,2010-06-10,Family,359126022.0,140.0,2010
+Redeeming Love,2022-01-21,History,9100000.0,134.0,2022
+A Dog's Purpose,2017-01-27,Drama,205035819.0,100.0,2017
+Pride & Prejudice,2005-09-16,Romance,121616555.0,127.0,2005
+Rocky,1976-11-21,Romance,117250402.0,,1976
+Get Out,2017-02-24,Horror,255407969.0,104.0,2017
+Angels & Demons,2009-05-15,Mystery,485930816.0,138.0,2009
+John Carter,2012-03-08,Science Fiction,284139100.0,132.0,2012
+Marry Me,2022-02-10,Music,44000000.0,112.0,2022
+Hotel Transylvania,2012-12-06,Fantasy,358375603.0,91.0,2012
+That's My Boy,2012-10-04,Drama,58058367.0,116.0,2012
+The Great Wall,2017-02-17,Fantasy,331957105.0,103.0,2017
+Trolls,2016-11-03,Music,346864462.0,92.0,2016
+Saw,2004-11-18,Crime,103911669.0,103.0,2004
+The Pursuit of Happyness,2007-03-01,Drama,307077295.0,117.0,2007
+I Am Dragon,2015-12-03,Romance,10495305.0,110.0,2015
+Scary Movie 3,2003-10-24,Comedy,220673217.0,84.0,2003
+Focus,2015-02-26,Drama,153962963.0,105.0,2015
+Prisoners,2013-09-19,Crime,122126687.0,153.0,2013
+Bohemian Rhapsody,2018-11-01,History,903992901.0,135.0,2018
+The Tax Collector,2020-08-07,Drama,942666.0,95.0,2020
+The Chronicles of Narnia: Prince Caspian,2008-05-16,Fantasy,419665568.0,150.0,2008
+Raiders of the Lost Ark,1981-12-25,Action,389925971.0,115.0,1981
+Back to the Future Part II,1989-11-22,Science Fiction,332000000.0,108.0,1989
+Watchmen,2009-03-06,Science Fiction,185258983.0,163.0,2009
+The Vault,2021-03-03,Thriller,8804000.0,118.0,2021
+I Spit on Your Grave,2010-10-08,Horror,572809.0,108.0,2010
+The First Purge,2018-07-04,Thriller,137056262.0,97.0,2018
+Scary Movie 4,2006-06-22,Comedy,178262620.0,83.0,2006
+The Ten Commandments,2011-03-29,History,122700000.0,220.0,2011
+The Last Airbender,2010-07-01,Fantasy,319713881.0,103.0,2010
+Zindagi Jhand Hai,2020-04-15,Thriller,1001034.0,67.0,2020
+Angel Has Fallen,2019-08-22,Thriller,146661977.0,122.0,2019
+Titane,2022-03-24,Horror,5115725.0,108.0,2022
+Nightcrawler,2014-12-03,Thriller,50300000.0,118.0,2014
+Once Upon a Timeâ€¦ in Hollywood,2019-08-15,Thriller,374251247.0,162.0,2019
+GoodFellas,1990-09-19,Crime,46835000.0,145.0,1990
+10 Cloverfield Lane,2016-04-07,Horror,108286421.0,104.0,2016
+Valerian and the City of a Thousand Planets,2017-07-20,Action,225874228.0,136.0,2017
+The Mask,1994-07-29,Fantasy,351583407.0,101.0,1994
+King Kong,2005-12-14,Action,562363449.0,187.0,2005
+Wrath of the Titans,2012-03-29,Adventure,301970083.0,99.0,2012
+Weathering with You,2019-09-12,Romance,186965409.0,112.0,2019
+Jeepers Creepers,2001-12-01,Thriller,59217789.0,90.0,2001
+Men in Black: International,2019-06-13,Action,252608480.0,115.0,2019
+Insidious,2010-09-13,Thriller,97009150.0,103.0,2010
+The Gentlemen,2020-02-27,Action,115171795.0,113.0,2020
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010-12-10,Fantasy,415686217.0,113.0,2010
+Need for Speed,2014-03-13,Thriller,203277636.0,132.0,2014
+The Lion King 1½,2004-02-09,Action,1465.0,77.0,2004
+Child's Play 3,1991-08-30,Thriller,20560255.0,90.0,1991
+What Happened at the Carpenter's Shop,2020-03-05,Romance,7.0,75.0,2020
+Red Shoes and the Seven Dwarfs,2020-09-18,Family,10054356.0,92.0,2020
+Pokémon the Movie: I Choose You!,2017-11-23,Fantasy,37552144.0,98.0,2017
+Den of Thieves,2018-01-19,Crime,80509622.0,140.0,2018
+Night at the Museum: Secret of the Tomb,2014-12-19,Family,363204635.0,98.0,2014
+The Purge: Anarchy,2014-09-17,Thriller,111928365.0,104.0,2014
+Life,2017-03-24,Thriller,100541806.0,104.0,2017
+Hansel & Gretel: Witch Hunters,2013-01-24,Action,226349749.0,88.0,2013
+TRON: Legacy,2010-12-17,Science Fiction,400062763.0,125.0,2010
+Trolls World Tour,2020-03-12,Music,47000000.0,90.0,2020
+Ballerina,2017-02-24,Family,2351359.0,89.0,2017
+Sex and the City,2008-05-30,Romance,415252786.0,145.0,2008
+Along with the Gods: The Last 49 Days,2018-08-01,Adventure,112790210.0,141.0,2018
+A Haunted House 2,2014-04-18,Horror,25343661.0,87.0,2014
+A Tale of Two Sisters,2003-06-13,Mystery,1062878.0,115.0,2003
+Léon: The Professional,1994-09-14,Action,45284974.0,111.0,1994
+Poseidon,2006-05-11,Thriller,181674817.0,98.0,2006
+Zombieland,2009-10-08,Horror,102391540.0,88.0,2009
+Ford v Ferrari,2019-11-14,History,225508210.0,153.0,2019
+The Greatest Showman,2017-12-20,Drama,432844677.0,105.0,2017
+Shaolin Soccer,2001-07-12,Comedy,42776760.0,113.0,2001
+Dark Spell,2021-02-11,Fantasy,532054.0,92.0,2021
+Legend,2015-10-29,Thriller,42972994.0,132.0,2015
+Django Unchained,2013-01-24,Western,425368238.0,165.0,2013
+Bolt,2008-12-04,Comedy,309979994.0,98.0,2008
+Edge of Tomorrow,2014-06-04,Science Fiction,370541256.0,114.0,2014
+The Boy in the Striped Pyjamas,2008-11-07,History,20416563.0,94.0,2008
+The Protégé,2021-12-31,Thriller,8639684.0,109.0,2021
+Perfume: The Story of a Murderer,2007-01-05,Drama,135039924.0,147.0,2007
+Fantastic Four,2015-08-06,Science Fiction,167977596.0,100.0,2015
+The Last Duel,2021-10-14,History,30500000.0,153.0,2021
+Peter Rabbit 2: The Runaway,2021-03-25,Fantasy,153000000.0,93.0,2021
+Ocean's Eight,2018-06-08,Action,297718711.0,111.0,2018
+Malignant,2021-09-09,Thriller,34892041.0,111.0,2021
+Batman Begins,2005-06-16,Drama,374218673.0,140.0,2005
+Nocturnal Animals,2016-12-01,Thriller,29252978.0,117.0,2016
+The Shining,2019-10-31,Thriller,44781695.0,144.0,2019
+Spiral: From the Book of Saw,2021-05-13,Mystery,40618920.0,93.0,2021
+Dragon Ball Z: Bio-Broly,1994-07-09,Science Fiction,19500000.0,,1994
+The Predator,2018-09-14,Adventure,160542134.0,107.0,2018
+Indiana Jones and the Last Crusade,1989-05-24,Action,474171806.0,127.0,1989
+Die Hard,1988-07-15,Thriller,140767956.0,131.0,1988
+Friends with Benefits,2011-07-21,Comedy,149542245.0,109.0,2011
+She Said,2022-11-24,History,10632378.0,129.0,2022
+Tears of the Sun,2003-03-07,Drama,86468162.0,121.0,2003
+Se7en,1996-02-15,Thriller,327311859.0,127.0,1996
+Planet of the Apes,2001-08-09,Adventure,362211740.0,119.0,2001
+Dragon Ball Z: Lord Slug,1991-03-19,Science Fiction,16400000.0,,1991
+God's Not Dead: A Light in Darkness,2018-03-30,Drama,5728940.0,105.0,2018
+The Heat,2013-06-27,Crime,158674180.0,117.0,2013
+Midsommar,2019-09-19,Mystery,47980982.0,147.0,2019
+Scream 2,1997-12-12,Mystery,172363301.0,,1997
+Gods of Egypt,2016-03-10,Fantasy,150680864.0,127.0,2016
+Men in Black,1997-07-31,Science Fiction,589390539.0,98.0,1997
+Aliens vs Predator: Requiem,2007-12-25,Horror,130290885.0,94.0,2007
+Norbit,2007-02-08,Comedy,159313561.0,102.0,2007
+Jeepers Creepers 3,2017-09-26,Thriller,3600000.0,100.0,2017
+Naruto Shippuden the Movie: The Lost Tower,2010-07-31,Animation,8500000.0,85.0,2010
+R.I.P.D.,2013-07-19,Crime,61648500.0,96.0,2013
+One Piece Film: GOLD,2016-07-23,Comedy,66207073.0,,2016
+Hitman: Agent 47,2015-08-20,Thriller,81967450.0,96.0,2015
+My Neighbor Totoro,1988-04-16,Family,45000000.0,86.0,1988
+28 Days Later,2003-09-28,Science Fiction,85720385.0,113.0,2003
+Major Grom: Plague Doctor,2021-07-07,Adventure,4493306.0,136.0,2021
+The Ten Commandments: The Movie,2016-01-28,Drama,37070177.0,,2016
+Rio 2,2014-04-10,Family,500188435.0,101.0,2014
+Charlie's Angels: Full Throttle,2003-06-27,Comedy,259175788.0,106.0,2003
+The Jungle Book,2016-04-14,Fantasy,966550600.0,106.0,2016
+Malena,2000-10-27,Drama,14493284.0,109.0,2000
+Irreversible,2002-05-22,Mystery,792200.0,98.0,2002
+Spartacus,1960-10-13,Adventure,60000000.0,197.0,1960
+Whitney Houston: I Wanna Dance with Somebody,2022-12-29,Music,41000000.0,144.0,2022
+The Final Destination,2009-08-28,Mystery,186167139.0,82.0,2009
+Umma,2022-03-18,Horror,2118582.0,83.0,2022
+The Purge: Election Year,2016-07-01,Thriller,118587880.0,105.0,2016
+Ocean's Eleven,2001-12-16,Crime,450717150.0,116.0,2001
+The Deep House,2021-11-18,Horror,1900000.0,85.0,2021
+Despicable Me 3,2017-06-15,Adventure,1031552585.0,96.0,2017
+Jack the Giant Slayer,2013-02-28,Family,197687603.0,114.0,2013
+Enchanted,2007-11-20,Romance,340487652.0,107.0,2007
+One Hundred and One Dalmatians,1961-01-25,Family,85000000.0,79.0,1961
+Scream 4,2011-04-15,Mystery,97231420.0,111.0,2011
+War of the Worlds,2005-06-29,Science Fiction,603873119.0,117.0,2005
+Last Night in Soho,2021-11-25,Thriller,22957625.0,117.0,2021
+White Noise,2022-12-30,Science Fiction,71476.0,136.0,2022
+Jack Reacher: Never Go Back,2016-10-21,Thriller,162146076.0,118.0,2016
+Cloudy with a Chance of Meatballs 2,2013-10-03,Comedy,248384621.0,95.0,2013
+Hunter Killer,2018-10-19,Thriller,31672678.0,121.0,2018
+Men in Black 3,2012-05-24,Science Fiction,624026776.0,106.0,2012
+The Fifth Element,1997-05-15,Science Fiction,263920180.0,126.0,1997
+Three Thousand Years of Longing,2022-09-01,Romance,19145392.0,108.0,2022
+Olympus Has Fallen,2013-04-11,Thriller,161025640.0,,2013
+Rise of the Planet of the Apes,2011-08-04,Science Fiction,482860185.0,105.0,2011
+The Expendables 3,2014-08-13,Thriller,214700000.0,126.0,2014
+Cloverfield,2008-01-17,Science Fiction,170764026.0,85.0,2008
+An Egg Rescue,2021-08-12,Family,3500000.0,89.0,2021
+Edward Scissorhands,1990-12-07,Romance,53000000.0,105.0,1990
+Jigsaw,2017-10-27,Thriller,102952888.0,92.0,2017
+The Amazing Maurice,2023-02-03,Fantasy,3901839.0,93.0,2023
+Alice Through the Looking Glass,2016-05-26,Fantasy,299457024.0,113.0,2016
+Jaws,2021-06-10,Adventure,470653000.0,124.0,2021
+American Pie 2,2001-11-08,Romance,287553595.0,108.0,2001
+Final Destination 2,2003-01-31,Mystery,90941129.0,90.0,2003
+Carriers,2009-09-04,Thriller,5802422.0,84.0,2009
+Ghost,1990-07-12,Romance,505000000.0,127.0,1990
+Hellboy,2019-04-11,Adventure,44664690.0,121.0,2019
+Now You See Me,2013-06-06,Crime,351723989.0,116.0,2013
+Gifted,2017-04-12,Comedy,40343446.0,101.0,2017
+Gunpowder Milkshake,2021-07-22,Thriller,1015760.0,114.0,2021
+Fantastic Beasts: The Crimes of Grindelwald,2018-11-16,Action,654855901.0,134.0,2018
+Career Opportunities,1991-03-29,Comedy,11336986.0,83.0,1991
+Ghost Rider,2007-02-16,Fantasy,228738393.0,114.0,2007
+The Thing,1982-06-25,Science Fiction,19629760.0,109.0,1982
+Life of Pi,2012-11-29,Drama,609016565.0,127.0,2012
+It Follows,2014-09-24,Mystery,14674076.0,101.0,2014
+Unhinged,2020-07-30,Thriller,39238300.0,90.0,2020
+The Road to El Dorado,2000-03-31,Fantasy,76432727.0,89.0,2000
+Infinite Storm,2022-03-25,Thriller,1564696.0,97.0,2022
+Limitless,2011-03-08,Science Fiction,161849455.0,105.0,2011
+Chicken Little,2005-11-04,Comedy,314432665.0,81.0,2005
+Event Horizon,1997-10-30,Mystery,26673242.0,96.0,1997
+The Interview,2014-12-25,Comedy,12342632.0,113.0,2014
+Casino Royale,2006-11-16,Thriller,599045960.0,144.0,2006
+Pitch Perfect 2,2015-05-15,Music,287506194.0,115.0,2015
+The A-Team,2010-07-28,Crime,177238796.0,117.0,2010
+Insidious: Chapter 2,2013-09-13,Thriller,161000000.0,106.0,2013
+Broker,2022-06-08,Drama,14900000.0,129.0,2022
+Zombieland: Double Tap,2019-10-31,Horror,122801777.0,99.0,2019
+13 Hours: The Secret Soldiers of Benghazi,2016-02-18,Drama,69411370.0,144.0,2016
+"Paul, Apostle of Christ",2018-03-28,History,22525668.0,108.0,2018
+Captain America: The Winter Soldier,2014-04-03,Science Fiction,714766572.0,136.0,2014
+Adanis: Kutsal Kavga,2022-03-11,Adventure,568828.0,122.0,2022
+Predestination,2014-08-28,Thriller,4942449.0,97.0,2014
+Scream 3,2000-02-03,Mystery,161834276.0,116.0,2000
+Saint Seiya: Legend of Sanctuary,2014-06-21,Fantasy,17150803.0,93.0,2014
+Bruce Almighty,2003-05-29,Comedy,484592874.0,101.0,2003
+La La Land,2016-12-01,Music,447407695.0,129.0,2016
+Lady and the Tramp,1955-06-22,Romance,36359037.0,76.0,1955
+The Punisher,2004-06-10,Drama,54700105.0,124.0,2004
+AINBO: Spirit of the Amazon,2021-03-11,Fantasy,9882125.0,84.0,2021
+Warrior,2011-09-09,Action,23308615.0,140.0,2011
+Batman,1989-06-23,Crime,411348924.0,126.0,1989
+Ghost Rider: Spirit of Vengeance,2012-02-17,Thriller,132563930.0,96.0,2012
+Pil's Adventures,2021-12-02,Family,6813652.0,89.0,2021
+The Magnificent Seven,2016-09-22,Western,162360636.0,132.0,2016
+Missing,2023-03-02,Drama,23000000.0,111.0,2023
+Fireproof,2008-09-26,Romance,33456317.0,122.0,2008
+Total Recall,1990-06-01,Science Fiction,261317921.0,113.0,1990
+Final Destination 3,2006-02-23,Mystery,118890272.0,93.0,2006
+Treasure Planet,2002-11-27,Science Fiction,109578115.0,95.0,2002
+Rush Hour 3,2007-08-10,Crime,258022233.0,91.0,2007
+Dunkirk,2017-07-20,Drama,527000000.0,107.0,2017
+Armageddon,1998-07-01,Adventure,553799566.0,151.0,1998
+Finding Dory,2016-06-16,Family,1028570889.0,97.0,2016
+Hercules,2014-07-24,Adventure,244819862.0,99.0,2014
+The Revenant,2016-01-07,Adventure,532950503.0,157.0,2016
+Insidious: The Last Key,2018-01-05,Thriller,167184112.0,103.0,2018
+Dumbo,1945-11-05,Family,1600000.0,64.0,1945
+Ferdinand,2017-12-15,Comedy,295038508.0,108.0,2017
+Battleship,2012-04-12,Science Fiction,303025485.0,131.0,2012
+What Happened to Monday,2017-08-18,Action,27975429.0,123.0,2017
+Dark Phoenix,2019-06-05,Adventure,252442974.0,114.0,2019
+Hachi: A Dog's Tale,2009-06-08,Family,46749646.0,93.0,2009
+Midway,2019-11-07,Adventure,127420861.0,138.0,2019
+No Strings Attached,2011-01-21,Romance,149228077.0,107.0,2011
+Independence Day,1996-06-25,Science Fiction,817400891.0,145.0,1996
+Zack and Miri Make a Porno,2008-09-18,Comedy,42105111.0,102.0,2008
+Riddick,2013-09-12,Thriller,98337295.0,119.0,2013
+12 Angry Men,1957-04-10,Drama,1000000.0,97.0,1957
+The Medium,2021-08-12,Thriller,7230000.0,131.0,2021
+Seed of Chucky,2004-11-12,Thriller,24829644.0,87.0,2004
+Annabelle,2014-10-03,Horror,257047661.0,99.0,2014
+Escape Room: Tournament of Champions,2021-09-16,Mystery,65774490.0,88.0,2021
+Van Helsing,2004-05-06,Action,300257475.0,132.0,2004
+Jiu Jitsu,2020-11-20,Fantasy,99924.0,102.0,2020
+Predator 2,1990-11-20,Thriller,57120318.0,108.0,1990
+Hotel Transylvania 2,2015-09-24,Fantasy,473226958.0,89.0,2015
+Shin Ultraman,2022-05-13,Science Fiction,33800000.0,118.0,2022
+The Hurricane Heist,2018-03-09,Thriller,32517248.0,103.0,2018
+Ghost in the Shell,2017-03-31,Thriller,169801921.0,107.0,2017
+A Nightmare on Elm Street,1984-11-09,Horror,25685134.0,91.0,1984
+Antlers,2021-11-04,Mystery,18312201.0,99.0,2021
+Saw 3D,2011-01-06,Crime,136151680.0,90.0,2011
+Willy Wonka & the Chocolate Factory,1971-06-30,Comedy,4000000.0,100.0,1971
+Peninsula,2020-07-15,Thriller,39657073.0,115.0,2020
+Princess Mononoke,1997-07-12,Animation,159414369.0,134.0,1997
+Conan the Barbarian,2011-08-18,Action,63523283.0,113.0,2011
+Mission: Impossible,1996-06-06,Thriller,457731198.0,110.0,1996
+Bad Boys II,2003-07-18,Crime,273339556.0,147.0,2003
+Sherlock Holmes: A Game of Shadows,2011-12-22,Mystery,334615000.0,129.0,2011
+The Lorax,2012-03-08,Family,348840316.0,86.0,2012
+American Pie Presents: The Naked Mile,2006-12-21,Comedy,27500000.0,97.0,2006
+Braveheart,2009-11-17,War,213216216.0,178.0,2009
+Now You See Me 2,2016-06-09,Mystery,334901337.0,129.0,2016
+A Clockwork Orange,1971-12-19,Drama,26589000.0,137.0,1971
+Battle: Los Angeles,2011-03-08,Action,211819354.0,116.0,2011
+Red Tails,2012-01-20,War,50365377.0,125.0,2012
+The Book of Life,2014-10-29,Fantasy,97437106.0,95.0,2014
+I Want to Eat Your Pancreas,2019-02-07,Romance,33748006.0,108.0,2019
+Alvin and the Chipmunks,2007-12-16,Animation,361366633.0,92.0,2007
+V for Vendetta,2006-03-16,Science Fiction,132511035.0,132.0,2006
+I'm Not Ashamed,2016-10-21,Drama,2000000.0,112.0,2016
+Blade,1998-09-10,Action,131183530.0,121.0,1998
+Star Trek,2009-05-07,Adventure,385680446.0,127.0,2009
+The Matrix Reloaded,2003-05-15,Science Fiction,738599701.0,138.0,2003
+Prince of Persia: The Sands of Time,2010-05-27,Action,336365676.0,116.0,2010
+Mission: Impossible - Rogue Nation,2015-07-30,Adventure,682716636.0,131.0,2015
+The Hills Have Eyes,2006-03-23,Thriller,69623713.0,107.0,2006
+Sherlock Holmes,2009-12-26,Mystery,524028679.0,129.0,2009
+Drive,2011-11-03,Crime,78054825.0,100.0,2011
+RV,2006-06-09,Comedy,87528173.0,99.0,2006
+The Fault in Our Stars,2014-08-21,Drama,307166834.0,126.0,2014
+About Time,2013-10-10,Fantasy,87100449.0,123.0,2013
+G.I. Joe: The Rise of Cobra,2009-08-07,Science Fiction,302469017.0,118.0,2009
+Green Book,2019-01-24,Comedy,319700000.0,130.0,2019
+Donnie Darko,2009-05-11,Mystery,7500000.0,114.0,2009
+Martyrs,2008-09-10,Thriller,1100000.0,99.0,2008
+Underworld: Awakening,2012-01-19,Horror,160112671.0,88.0,2012
+Fifty Shades of Black,2016-01-29,Comedy,21164799.0,92.0,2016
+Grease,1978-07-07,Comedy,181813770.0,110.0,1978
+127 Hours,2011-02-17,Thriller,35692920.0,94.0,2011
+First Blood,1982-10-22,War,125212904.0,93.0,1982
+"Good Luck to You, Leo Grande",2023-02-02,Drama,7589829.0,97.0,2023
+Sausage Party,2016-08-12,Fantasy,140705322.0,89.0,2016
+The Cat in the Hat,2003-11-21,Fantasy,133800000.0,81.0,2003
+Salt,2010-07-23,Thriller,293329073.0,100.0,2010
+Rocky III,1982-05-28,Drama,270000000.0,99.0,1982
+Pocahontas,1995-06-16,Romance,346079773.0,81.0,1995
+I Spit on Your Grave 2,2013-09-20,Crime,678604.0,106.0,2013
+Warcraft,2016-06-09,Fantasy,433677183.0,123.0,2016
+28 Weeks Later,2007-05-11,Science Fiction,65048678.0,100.0,2007
+1917,2020-01-09,History,394638258.0,119.0,2020
+The Texas Chainsaw Massacre,2003-10-17,Horror,107363905.0,98.0,2003
+Lolita,1962-09-11,Romance,9250000.0,154.0,1962
+Jennifer's Body,2009-09-18,Comedy,31556061.0,107.0,2009
+The Handmaiden,2016-07-07,Romance,37767206.0,145.0,2016
+Divergent,2014-03-21,Science Fiction,288747895.0,139.0,2014
+Monster House,2006-08-31,Fantasy,140175006.0,91.0,2006
+Terminator 3: Rise of the Machines,2003-07-10,Science Fiction,435000000.0,109.0,2003
+Dolittle,2020-01-16,Adventure,245692007.0,101.0,2020
+From Russia with Love,2015-09-14,Adventure,78900000.0,115.0,2015
+Friday the 13th,1980-05-09,Horror,59754601.0,95.0,1980
+The Mummy: Tomb of the Dragon Emperor,2008-08-07,Fantasy,403449830.0,112.0,2008
+Fantastic Four: Rise of the Silver Surfer,2007-06-15,Thriller,301913131.0,92.0,2007
+Green Lantern,2011-06-17,Science Fiction,219851172.0,114.0,2011
+"I, Robot",2004-07-22,Science Fiction,347234916.0,115.0,2004
+The Angry Birds Movie 2,2019-09-05,Family,147792047.0,97.0,2019
+Die Hard: With a Vengeance,2007-12-11,Thriller,366101666.0,128.0,2007
+Moonbound,2022-03-31,Fantasy,6666618.0,81.0,2022
+Maquia: When the Promised Flower Blooms,2018-02-24,Drama,4300000.0,115.0,2018
+National Treasure,2004-12-09,Mystery,347512318.0,131.0,2004
+17 Again,2009-04-17,Comedy,136267476.0,102.0,2009
+Tomb Raider,2018-03-14,Fantasy,274650803.0,118.0,2018
+The Angry Birds Movie,2016-05-12,Comedy,349779543.0,97.0,2016
+Austin Powers: The Spy Who Shagged Me,1999-06-08,Science Fiction,312016928.0,95.0,1999
+A Star Is Born,2018-10-04,Romance,433888866.0,136.0,2018
+A Walk Among the Tombstones,2014-09-19,Thriller,58834384.0,114.0,2014
+Sooryavanshi,2021-11-05,Thriller,37700000.0,145.0,2021
+Man on Fire,2004-09-09,Thriller,130293714.0,146.0,2004
+Paranormal Activity 2,2010-10-21,Fantasy,177512032.0,91.0,2010
+Mortal Engines,2018-12-06,Science Fiction,83672673.0,129.0,2018
+Interview with the Vampire,2010-04-27,Fantasy,223664608.0,123.0,2010
+Beetlejuice,1988-03-30,Comedy,74714298.0,92.0,1988
+Death on the Nile,2022-02-10,Adventure,137110100.0,127.0,2022
+House of Gucci,2021-12-30,History,153235995.0,158.0,2021
+Rocky IV,1985-11-21,Drama,300473716.0,91.0,1985
+Oblivion,2013-04-11,Mystery,286168572.0,124.0,2013
+300: Rise of an Empire,2014-03-07,War,337580051.0,102.0,2014
+Pet Sematary,1989-04-21,Drama,57469467.0,103.0,1989
+Wonder,2017-11-17,Family,305937718.0,113.0,2017
+Indiana Jones and the Temple of Doom,1984-05-23,Action,333000000.0,118.0,1984
+300,2007-03-08,War,422610419.0,117.0,2007
+Spectre,2015-11-06,Thriller,880674609.0,148.0,2015
+She's Out of My League,2010-03-12,Comedy,49779728.0,104.0,2010
+Her,2013-12-18,Drama,47351251.0,126.0,2013
+The Age of Adaline,2015-04-24,Drama,65663276.0,112.0,2015
+"Tad, the Lost Explorer",2012-08-31,Family,23000000.0,90.0,2012
+The Witch: Part 1. The Subversion,2018-06-27,Science Fiction,24340302.0,125.0,2018
+The Mortal Instruments: City of Bones,2013-08-23,Mystery,95396573.0,130.0,2013
+Underworld: Blood Wars,2017-01-06,Horror,81093313.0,91.0,2017
+Anastasia,1997-11-21,Adventure,139804348.0,94.0,1997
+The SpongeBob Movie: Sponge Out of Water,2015-01-28,Animation,311594032.0,93.0,2015
+Night at the Museum,2006-12-26,Fantasy,574480841.0,108.0,2006
+8 Mile,2002-11-08,Drama,242875078.0,111.0,2002
+The Curse of La Llorona,2019-04-18,Thriller,122033739.0,93.0,2019
+Mary Magdalene,2019-04-12,History,11710110.0,,2019
+The Butterfly Effect,2004-03-04,Thriller,96060858.0,113.0,2004
+Chronicle,2012-02-02,Thriller,145000000.0,84.0,2012
+Snowpiercer,2013-08-01,Drama,86758912.0,127.0,2013
+Pan's Labyrinth,2006-11-30,War,83258226.0,118.0,2006
+The Girl Next Door,2004-04-09,Romance,31635150.0,110.0,2004
+Dirty Grandpa,2016-01-28,Comedy,94073028.0,102.0,2016
+2001: A Space Odyssey,2018-09-27,Adventure,71923560.0,149.0,2018
+The Hills Have Eyes 2,2007-03-22,Thriller,37697773.0,89.0,2007
+American History X,1999-03-18,Drama,23875127.0,119.0,1999
+Cloudy with a Chance of Meatballs,2009-09-18,Family,242988466.0,90.0,2009
+The Hitman's Bodyguard,2017-08-18,Comedy,176586701.0,118.0,2017
+Hitman's Wife's Bodyguard,2021-06-24,Thriller,70060492.0,117.0,2021
+Virgin Territory,2007-12-17,Romance,5410749.0,93.0,2007
+Blade Runner,2007-12-02,Thriller,41722424.0,118.0,2007
+Casablanca,2003-08-05,Romance,10462500.0,102.0,2003
+Reservoir Dogs,1992-10-23,Thriller,2859750.0,99.0,1992
+Skyfall,2012-11-01,Thriller,1108569499.0,143.0,2012
+Dances with Wolves,2004-05-25,Western,424208848.0,181.0,2004
+Over the Hedge,2006-05-18,Animation,343397247.0,83.0,2006
+Dawn of the Dead,2004-04-22,Action,102278712.0,101.0,2004
+The Princess Diaries,2001-08-03,Romance,165335153.0,115.0,2001
+Speak No Evil,2022-03-17,Thriller,623462.0,97.0,2022
+The Invisible Guest,2017-01-06,Thriller,30000000.0,107.0,2017
+Zoolander,2006-02-16,Comedy,60780981.0,90.0,2006
+Castle in the Sky,1986-08-02,Romance,5228752.0,125.0,1986
+Rocky II,1979-06-15,Drama,85182160.0,119.0,1979
+Texas Chainsaw 3D,2013-01-04,Thriller,47340586.0,92.0,2013
+80 for Brady,2023-02-03,Comedy,12500000.0,98.0,2023
+Vacation,2015-08-05,Comedy,104384188.0,99.0,2015
+Basic Instinct,2006-03-13,Mystery,352927224.0,127.0,2006
+Kill Bill: Vol. 1,2003-10-23,Crime,180906076.0,111.0,2003
+Alvin and the Chipmunks: The Squeakquel,2009-12-23,Music,443140005.0,88.0,2009
+Evangelion: 3.0+1.0 Thrice Upon a Time,2021-03-08,Drama,92300000.0,155.0,2021
+Pretty Woman,1990-03-23,Romance,463406268.0,119.0,1990
+Marmaduke,2022-05-06,Comedy,1379888.0,88.0,2022
+Boyz n the Hood,1991-07-12,Drama,57504069.0,112.0,1991
+The Outsiders,1983-03-25,Drama,33697647.0,91.0,1983
+Honest Thief,2020-10-16,Drama,31220247.0,99.0,2020
+The Texas Chainsaw Massacre: The Beginning,2006-11-09,Thriller,107363905.0,91.0,2006
+The Heartbreak Kid,2007-10-05,Romance,127766650.0,116.0,2007
+Digimon Adventure: Last Evolution Kizuna,2020-07-16,Fantasy,24200000.0,94.0,2020
+The Skin I Live In,2011-09-02,Thriller,33750478.0,,2011
+Brian Banks,2019-08-09,Drama,4300000.0,99.0,2019
+Police Academy,1984-03-22,Crime,81198894.0,97.0,1984
+The Fox and the Hound,1981-07-10,Family,29800000.0,82.0,1981
+The Expendables 2,2012-08-16,Thriller,314975955.0,103.0,2012
+Ashfall,2020-01-02,Thriller,61321941.0,128.0,2020
+Saw II,2005-12-01,Horror,147748505.0,89.0,2005
+One Day,2011-08-19,Romance,59389433.0,107.0,2011
+Neon Genesis Evangelion: The End of Evangelion,1997-07-19,Action,20000000.0,87.0,1997
+Full Metal Jacket,2008-03-02,War,46357676.0,117.0,2008
+The Departed,2006-10-12,Crime,291465000.0,151.0,2006
+The Grey,2012-02-23,Adventure,77278331.0,117.0,2012
+Fantastic Four,2005-07-07,Science Fiction,333535934.0,106.0,2005
+The Devil's Advocate,1997-12-11,Horror,152944660.0,144.0,1997
+Star Trek Beyond,2016-07-21,Science Fiction,343471816.0,122.0,2016
+The New Mutants,2020-08-27,Action,49169594.0,94.0,2020
+The Lovely Bones,2010-02-19,Drama,93621340.0,136.0,2010
+Straight Outta Compton,2015-08-11,History,201634991.0,147.0,2015
+It's a Wonderful Life,1947-01-07,Fantasy,9644124.0,130.0,1947
+The Last Witch Hunter,2015-10-22,Adventure,146936910.0,106.0,2015
+101 Dalmatians,1996-11-28,Comedy,320689294.0,103.0,1996
+Point Break,1991-07-12,Crime,83531958.0,122.0,1991
+Bee Movie,2007-11-02,Comedy,287594577.0,91.0,2007
+Black Swan,2011-02-10,Horror,329398046.0,108.0,2011
+My Little Pony: A New Generation,2021-09-24,Adventure,4100000.0,91.0,2021
+Journey to the Center of the Earth,2008-12-18,Family,101702060.0,93.0,2008
+A Walk to Remember,2002-03-21,Romance,47494916.0,101.0,2002
+Romance,1999-04-14,Romance,1314053.0,99.0,1999
+The Human Centipede (First Sequence),2012-04-11,Horror,252207.0,92.0,2012
+Nanny McPhee,2005-10-21,Family,123276807.0,97.0,2005
+Home on the Range,2004-06-17,Family,145358062.0,76.0,2004
+Rambo III,1988-05-24,War,189015611.0,102.0,1988
+Never Back Down,2008-03-04,Action,41627431.0,115.0,2008
+Voyagers,2021-04-08,Thriller,4284903.0,108.0,2021
+Insidious: Chapter 3,2015-05-28,Mystery,112983889.0,97.0,2015
+Solo: A Star Wars Story,2018-05-24,Action,392952373.0,135.0,2018
+Bumblebee,2018-12-20,Science Fiction,467989645.0,113.0,2018
+Machine Gun Preacher,2011-09-23,Crime,2527904.0,129.0,2011
+The Exorcism of Emily Rose,2005-11-10,Thriller,145166804.0,122.0,2005
+Happy Feet Two,2011-12-20,Family,150406466.0,100.0,2011
+House of Wax,2005-05-05,Thriller,68766121.0,113.0,2005
+The Pianist,2003-01-24,War,120072577.0,150.0,2003
+Akira,1988-07-16,Action,553171.0,124.0,1988
+Nanny McPhee and the Big Bang,2010-03-26,Family,123276807.0,109.0,2010
+Crawl,2019-07-11,Action,91542097.0,88.0,2019
+King Richard,2022-01-27,History,30000000.0,145.0,2022
+Guardians of the Galaxy,2014-07-30,Adventure,772776600.0,121.0,2014
+Speed,1994-06-09,Crime,350448145.0,116.0,1994
+Escape Plan 2: Hades,2018-06-29,Action,17500000.0,96.0,2018
+Anna,2019-06-20,Action,31626978.0,119.0,2019
+Meet the Robinsons,2007-03-30,Family,169332978.0,95.0,2007
+Sin City: A Dame to Kill For,2014-08-20,Thriller,39407616.0,102.0,2014
+Pet Sematary,2019-04-04,Thriller,112399944.0,101.0,2019
+Neighbors 2: Sorority Rising,2016-05-20,Comedy,108758521.0,92.0,2016
+The Mask of Zorro,1998-07-16,Adventure,250288523.0,136.0,1998
+Fool's Gold,2008-02-08,Adventure,111231041.0,112.0,2008
+The School of the Magical Animals,2021-10-14,Adventure,13128530.0,93.0,2021
+Willow,1988-05-20,Fantasy,57269863.0,126.0,1988
+21 Jump Street,2012-05-10,Crime,201585328.0,109.0,2012
+Bāhubali: The Beginning,2015-07-10,Drama,90747520.0,158.0,2015
+Ken Park,2002-08-31,Drama,447741.0,97.0,2002
+Pearl Harbor,2001-05-21,Drama,449220945.0,183.0,2001
+The Karate Kid Part II,1986-06-18,Family,115103979.0,113.0,1986
+Piranha 3D,2010-08-20,Horror,83188165.0,88.0,2010
+Total Recall,2012-08-02,Thriller,198802074.0,118.0,2012
+Halloween,1978-10-25,Thriller,70274000.0,91.0,1978
+Transporter 2,2005-09-02,Crime,89083229.0,87.0,2005
+Hocus Pocus,1993-07-16,Family,39514713.0,96.0,1993
+Child's Play 2,1990-11-09,Thriller,35763605.0,84.0,1990
+Paranormal Activity,2007-09-14,Mystery,194183034.0,85.0,2007
+Freddy vs. Jason,2003-09-18,Horror,116643421.0,97.0,2003
+The Curious Case of Benjamin Button,2008-12-25,Romance,335802786.0,166.0,2008
+The Polar Express,2004-11-25,Comedy,310634054.0,100.0,2004
+Casper,1995-05-26,Family,287928194.0,100.0,1995
+Curse of Chucky,2013-10-08,Thriller,3800000.0,97.0,2013
+Independence Day: Resurgence,2016-06-23,Science Fiction,389681935.0,,2016
+The Brave One,2007-10-11,Thriller,69766619.0,122.0,2007
+District 9,2009-08-13,Science Fiction,210819611.0,112.0,2009
+No Country for Old Men,2007-11-08,Thriller,171627166.0,122.0,2007
+Home,2015-03-25,Family,368871007.0,94.0,2015
+White House Down,2013-06-28,Thriller,205366737.0,131.0,2013
+Robin Hood,2010-05-12,Drama,321669741.0,140.0,2010
+Minions,2015-06-17,Comedy,1156730962.0,91.0,2015
+City of God,2003-06-26,Crime,30641770.0,130.0,2003
+Enemy at the Gates,2001-04-26,History,96976270.0,131.0,2001
+Geostorm,2017-10-20,Thriller,221600160.0,109.0,2017
+Cirque du Freak: The Vampire's Assistant,2009-10-23,Thriller,28169671.0,109.0,2009
+Clown,2016-06-17,Horror,4381603.0,100.0,2016
+G.I. Joe: Retaliation,2013-05-03,Thriller,371876278.0,110.0,2013
+Ong Bak: Muay Thai Warrior,2003-01-21,Thriller,20112926.0,105.0,2003
+Sex and the City 2,2010-05-27,Romance,290745055.0,146.0,2010
+Rocky V,1990-11-16,Drama,119946358.0,104.0,1990
+Lionheart,1991-01-11,Action,24271196.0,105.0,1991
+Father Stu,2022-04-13,Drama,21591034.0,124.0,2022
+Stand by Me Doraemon,2014-08-08,Fantasy,83061158.0,90.0,2014
+Super Mario Bros.,1993-05-28,Science Fiction,20915465.0,104.0,1993
+Batman Returns,1992-06-19,Fantasy,280000000.0,126.0,1992
+Sucker Punch,2011-03-25,Thriller,89792502.0,110.0,2011
+12 Strong,2018-01-19,History,67450815.0,130.0,2018
+The Magnificent Seven,2001-05-08,Adventure,4905000.0,128.0,2001
+Not Another Teen Movie,2001-12-07,Comedy,66468332.0,89.0,2001
+[REC],2008-10-30,Mystery,32511655.0,78.0,2008
+Step Up All In,2014-08-08,Music,86165646.0,112.0,2014
+Indiana Jones and the Kingdom of the Crystal Skull,2008-05-22,Action,786636033.0,122.0,2008
+I Spit on Your Grave III: Vengeance is Mine,2015-10-09,Thriller,144420.0,91.0,2015
+Universal Soldier: Regeneration,2009-10-01,Thriller,875386.0,97.0,2009
+Bodies Bodies Bodies,2022-08-05,Horror,13905020.0,94.0,2022
+Snow White and the Huntsman,2012-05-31,Drama,396600000.0,127.0,2012
+Live Free or Die Hard,2007-06-20,Thriller,383531464.0,128.0,2007
+Peter Pan,2003-12-25,Family,121975011.0,113.0,2003
+Werewolves Within,2021-10-07,Comedy,937490.0,97.0,2021
+Alvin and the Chipmunks: Chipwrecked,2011-12-16,Animation,342695435.0,87.0,2011
+"Crazy, Stupid, Love.",2011-07-29,Romance,142851197.0,118.0,2011
+The Wedding Ringer,2015-01-16,Comedy,79799880.0,101.0,2015
+Flipped,2010-08-06,Drama,1755212.0,89.0,2010
+London Has Fallen,2016-03-03,Thriller,205754447.0,99.0,2016
+Public Enemies,2009-07-23,Crime,214104620.0,140.0,2009
+3 Idiots,2009-12-25,Comedy,70000000.0,170.0,2009
+Source Code,2011-04-21,Mystery,147332697.0,94.0,2011
+Bram Stoker's Dracula,1992-11-13,Horror,215862692.0,128.0,1992
+Allegiant,2016-03-17,Mystery,179246868.0,,2016
+Bad Boys,1995-04-07,Thriller,141407024.0,119.0,1995
+Those Who Wish Me Dead,2021-05-06,Action,23384502.0,100.0,2021
+"As Above, So Below",2014-09-03,Thriller,41900000.0,93.0,2014
+Training Day,2001-10-05,Drama,104876233.0,122.0,2001
+Memento,2001-06-28,Thriller,39723096.0,113.0,2001
+The Hunger Games,2012-03-23,Fantasy,694394724.0,142.0,2012
+Saw IV,2007-10-25,Crime,139352633.0,96.0,2007
+Candyman,2021-09-23,Thriller,77411570.0,91.0,2021
+Seventh Son,2014-12-30,Fantasy,114178613.0,102.0,2014
+Machete,2010-09-03,Thriller,44093316.0,105.0,2010
+Blade II,2002-04-04,Thriller,155010032.0,117.0,2002
+Jojo Rabbit,2020-01-02,Drama,82468705.0,108.0,2020
+The Hunt,2020-08-13,Horror,42415898.0,90.0,2020
+Stillwater,2021-07-30,Thriller,19754272.0,139.0,2021
+Naruto: Guardians of the Crescent Moon Kingdom,2006-08-05,Action,3224000.0,95.0,2006
+Oldboy,2004-10-14,Action,15194593.0,,2004
+Black Hawk Down,2002-01-17,War,172989651.0,145.0,2002
+Annihilation,2018-03-12,Horror,43070915.0,115.0,2018
+Sputnik,2020-04-23,Horror,354023.0,113.0,2020
+The Ritual,2017-10-13,Mystery,1786396.0,94.0,2017
+The Losers,2010-04-23,Thriller,23580000.0,97.0,2010
+Shaun of the Dead,2004-09-24,Comedy,30097092.0,99.0,2004
+The Transporter,2002-10-02,Thriller,43928932.0,92.0,2002
+Double Impact,1991-08-10,Drama,30102717.0,110.0,1991
+Little Man,2006-08-31,Crime,101595121.0,98.0,2006
+Central Intelligence,2016-06-16,Mystery,216972543.0,107.0,2016
+Sleepy Hollow,2000-02-17,Horror,206071502.0,105.0,2000
+Red Dawn,2012-11-22,Thriller,44806783.0,93.0,2012
+Megalodon,2018-10-26,TV Movie,5303.0,90.0,2018
+The Ring,2002-10-18,Mystery,249348933.0,115.0,2002
+Father There Is Only One,2019-08-02,Comedy,15894372.0,95.0,2019
+Barbie in A Mermaid Tale,2010-03-09,Fantasy,16441438.0,75.0,2010
+The Goonies,1985-06-07,Family,61389680.0,114.0,1985
+Mission: Impossible III,2006-05-03,Thriller,398479497.0,126.0,2006
+Fantasia,1974-06-17,Family,76411819.0,124.0,1974
+Cast Away,2001-01-24,Drama,429632142.0,143.0,2001
+Groundhog Day,1993-02-11,Comedy,71074049.0,101.0,1993
+The Vow,2012-04-05,Romance,196114570.0,104.0,2012
+Asterix & Obelix: Mission Cleopatra,2002-01-30,Adventure,128027976.0,108.0,2002
+Lord of War,2006-02-16,Thriller,72617068.0,122.0,2006
+Searching,2018-08-24,Drama,75462037.0,102.0,2018
+Waves,2020-01-23,Drama,2576990.0,135.0,2020
+The Craft: Legacy,2020-10-28,Fantasy,2300000.0,94.0,2020
+Escape Room,2019-01-04,Mystery,155712077.0,100.0,2019
+The Princess Diaries 2: Royal Engagement,2004-08-06,Romance,134734481.0,113.0,2004
+Robots,2005-03-10,Science Fiction,262511490.0,91.0,2005
+Pinocchio,2020-10-01,Fantasy,17133446.0,124.0,2020
+Kiki's Delivery Service,1989-07-29,Adventure,4493017.0,103.0,1989
+The Blair Witch Project,1999-10-28,Mystery,248639099.0,81.0,1999
+National Lampoon's Christmas Vacation,1989-12-01,Comedy,71319546.0,97.0,1989
+Men in Black II,2005-09-11,Science Fiction,445135288.0,88.0,2005
+The Purge,2013-06-06,Thriller,89328627.0,86.0,2013
+Miracle in Cell No. 7,2019-10-11,Drama,19289062.0,132.0,2019
+Night at the Museum: Battle of the Smithsonian,2009-05-21,Family,413106170.0,105.0,2009
+Hellboy,2004-04-08,Action,99318987.0,122.0,2004
+Replicas,2019-01-11,Drama,8100000.0,107.0,2019
+9,2009-09-09,Thriller,48428063.0,79.0,2009
+Night of the Living Dead,1968-10-04,Drama,30000000.0,96.0,1968
+Hulk,2003-06-19,Action,245360480.0,138.0,2003
+Lethal Weapon,1987-03-06,Crime,120207127.0,110.0,1987
+Bombshell,2020-01-30,Drama,61404394.0,109.0,2020
+Step Up 3D,2010-08-06,Romance,159291809.0,107.0,2010
+Elite Squad,2007-10-12,Crime,14759148.0,115.0,2007
+Blitz,2011-08-23,Thriller,15800000.0,97.0,2011
+Pokémon: The Movie 2000,1999-07-17,Family,163649270.0,84.0,1999
+The Flu,2013-10-03,Science Fiction,19775853.0,122.0,2013
+Saw III,2006-10-27,Crime,164874275.0,114.0,2006
+Star Trek Into Darkness,2013-05-16,Science Fiction,467365246.0,132.0,2013
+Transporter 3,2008-12-05,Crime,108979549.0,104.0,2008
+Meander,2021-05-26,Thriller,700000.0,91.0,2021
+Rogue One: A Star Wars Story,2016-12-16,Science Fiction,1056057273.0,133.0,2016
+Beverly Hills Chihuahua,2008-10-03,Romance,149281606.0,91.0,2008
+John Q,2002-02-15,Crime,102244770.0,116.0,2002
+The Emoji Movie,2017-08-08,Comedy,216909830.0,86.0,2017
+A Writer's Odyssey,2021-02-12,Drama,150123320.0,130.0,2021
+Who Framed Roger Rabbit,1988-06-21,Crime,329803958.0,104.0,1988
+Ghostbusters,2016-07-14,Comedy,229147509.0,117.0,2016
+The Dictator,2012-06-14,Comedy,179379533.0,83.0,2012
+13 Going on 30,2004-04-13,Romance,96455697.0,98.0,2004
+Star Wars: Episode I - The Phantom Menace,1999-05-19,Science Fiction,924317558.0,136.0,1999
+Audition,2000-03-03,Drama,359853.0,115.0,2000
+Captain Underpants: The First Epic Movie,2017-06-02,Family,125427681.0,89.0,2017
+The Grand Budapest Hotel,2014-03-07,Drama,174600318.0,100.0,2014
+Eyes Wide Shut,1999-09-23,Mystery,162091208.0,159.0,1999
+Gemini Man,2019-10-10,Thriller,173469516.0,117.0,2019
+Evolution,2001-06-28,Action,98376292.0,101.0,2001
+S.W.A.T.,2003-08-08,Crime,116643346.0,117.0,2003
+Space Sweepers,2021-02-05,Science Fiction,24571.0,136.0,2021
+Ouija: Origin of Evil,2016-10-21,Horror,81705746.0,99.0,2016
+Rocky Balboa,2006-12-20,Drama,155929020.0,101.0,2006
+10 Things I Hate About You,1999-03-31,Drama,53478166.0,97.0,1999
+Nacho Libre,2006-07-20,Family,99255460.0,92.0,2006
+The Legend of Tarzan,2016-07-07,Adventure,356743061.0,109.0,2016
+E.T. the Extra-Terrestrial,1982-11-27,Fantasy,792965500.0,115.0,1982
+Violet Evergarden: Eternity and the Auto Memory Doll,2020-01-09,Animation,10841702.0,91.0,2020
+Dumb and Dumber,1994-12-16,Comedy,247275374.0,107.0,1994
+Dead Silence,2007-03-16,Horror,22217407.0,89.0,2007
+The Great Gatsby,2013-05-30,Romance,351040419.0,143.0,2013
+Blood Diamond,2007-01-04,Action,171720398.0,143.0,2007
+Saw VI,2009-10-23,Mystery,68234154.0,90.0,2009
+The Ugly Truth,2009-07-24,Romance,321682600.0,96.0,2009
+One Piece Film: Z,2012-12-15,Adventure,74223861.0,108.0,2012
+Scott Pilgrim vs. the World,2010-08-25,Romance,48000000.0,112.0,2010
+Dune,1984-12-14,Adventure,30925690.0,137.0,1984
+30 Minutes or Less,2011-11-12,Comedy,40547440.0,83.0,2011
+Anaconda,1997-07-03,Thriller,136885767.0,89.0,1997
+Robin Hood,1973-11-08,Family,32056467.0,83.0,1973
+Scoob!,2020-05-15,Mystery,28559165.0,93.0,2020
+Star Wars: Episode III - Revenge of the Sith,2005-05-19,Science Fiction,850000000.0,140.0,2005
+Blackhat,2015-01-14,Action,17752940.0,133.0,2015
+Coach Carter,2005-04-28,History,76669806.0,136.0,2005
+White Snake,2019-01-11,Fantasy,61631776.0,99.0,2019
+Don't Breathe,2016-08-25,Horror,159047649.0,89.0,2016
+Dragon Ball Z: Dead Zone,1989-07-15,Fantasy,14000000.0,,1989
+Jurassic Park,1993-06-11,Science Fiction,920100000.0,127.0,1993
+The Patriot,2000-08-05,Action,215294342.0,165.0,2000
+Left Behind,2014-10-03,Science Fiction,19682924.0,110.0,2014
+Cold Mountain,2003-12-24,Romance,173013509.0,154.0,2003
+Batman & Robin,1997-07-17,Comedy,238207122.0,125.0,1997
+Lady Bird,2017-11-03,Comedy,78966486.0,94.0,2017
+A Christmas Carol,2009-11-06,Fantasy,325286646.0,94.0,2009
+Code 8,2019-12-13,Drama,157209.0,99.0,2019
+The Lone Ranger,2013-07-04,Western,260502115.0,149.0,2013
+Room in Rome,2010-05-07,Romance,844281.0,109.0,2010
+The Empire Strikes Back,1980-05-21,Science Fiction,538400000.0,124.0,1980
+A Bronx Tale,1993-09-14,Crime,17287898.0,121.0,1993
+Apocalypse Now,1979-08-15,War,150000000.0,147.0,1979
+Mechanic: Resurrection,2016-08-26,Thriller,125729635.0,98.0,2016
+#Alive,2020-06-24,Thriller,13416285.0,98.0,2020
+The Mummy,2017-06-08,Horror,409231607.0,110.0,2017
+Easy A,2010-09-17,Comedy,75026327.0,93.0,2010
+Monkey King: Hero Is Back,2015-07-10,Comedy,150000000.0,89.0,2015
+Ong Bak 2,2008-12-04,Thriller,8936663.0,98.0,2008
+A Beautiful Mind,2001-12-12,Romance,313542341.0,135.0,2001
+Daddy's Home 2,2017-11-10,Comedy,180613180.0,100.0,2017
+The BFG,2016-06-30,Fantasy,195243411.0,117.0,2016
+Naruto: Legend of the Stone of Gelel,2005-08-06,Fantasy,10200000.0,96.0,2005
+Underworld,2003-09-19,Thriller,95708457.0,122.0,2003
+The Orphanage,2007-10-11,Thriller,78638987.0,105.0,2007
+Silent Hill,2006-06-15,Mystery,100605135.0,125.0,2006
+Sex and Lucía,2001-08-24,Romance,7640680.0,128.0,2001
+Red Sparrow,2018-03-02,Thriller,151572634.0,140.0,2018
+Alvin and the Chipmunks: The Road Chip,2015-12-24,Family,233755553.0,92.0,2015
+A Good Day to Die Hard,2013-02-07,Thriller,304654182.0,98.0,2013
+Gonjiam: Haunted Asylum,2018-03-28,Mystery,21041950.0,94.0,2018
+The Matrix Revolutions,2003-11-05,Science Fiction,424988211.0,129.0,2003
+The Theory of Everything,2014-11-26,Romance,123726688.0,123.0,2014
+Cosmic Sin,2021-03-12,Science Fiction,349757.0,88.0,2021
+The Mist,2007-11-21,Thriller,57470220.0,126.0,2007
+ParaNorman,2012-08-30,Comedy,107139399.0,90.0,2012
+Batman Forever,1995-08-09,Fantasy,336529144.0,121.0,1995
+The Nutcracker and the Four Realms,2018-11-02,Family,59522646.0,99.0,2018
+Carrie,1976-11-03,Thriller,33800000.0,98.0,1976
+Skyscraper,2018-07-13,Thriller,292351275.0,102.0,2018
+Saw V,2008-10-23,Crime,113864059.0,95.0,2008
+Friday the 13th,2009-02-13,Horror,91509154.0,97.0,2009
+Superman,1978-12-14,Adventure,300218018.0,143.0,1978
+The Man with the Iron Fists,2012-11-02,Action,20546518.0,96.0,2012
+Stuart Little,1999-12-17,Adventure,300135367.0,84.0,1999
+The Day After Tomorrow,2004-05-27,Thriller,552639571.0,124.0,2004
+Special Forces,2012-01-05,War,3424648.0,109.0,2012
+The Irishman,2019-11-27,History,968853.0,209.0,2019
+Flight,2013-02-21,Drama,161772375.0,138.0,2013
+Super 8,2011-06-09,Mystery,260095986.0,112.0,2011
+The Huntsman: Winter's War,2016-04-21,Drama,164989338.0,114.0,2016
+Malicious,1973-03-29,Comedy,109133.0,93.0,1973
+Bloodsport,1988-02-26,Drama,65000000.0,92.0,1988
+Flushed Away,2006-11-02,Family,178120010.0,84.0,2006
+The Cabin in the Woods,2012-04-19,Fantasy,71041255.0,95.0,2012
+Ben-Hur,2012-02-07,History,164000000.0,222.0,2012
+Thir13en Ghosts,2002-03-08,Thriller,68467960.0,91.0,2002
+Inside Man,2006-04-06,Thriller,186003591.0,129.0,2006
+Twelve Monkeys,1996-04-04,Mystery,168841459.0,129.0,1996
+Tomorrowland,2015-05-20,Science Fiction,209154322.0,130.0,2015
+An American Werewolf in London,1981-08-21,Comedy,31973249.0,97.0,1981
+The Sixth Sense,1999-09-16,Drama,672806292.0,107.0,1999
+The Untouchables,1987-06-03,Thriller,76270454.0,119.0,1987
+Unbreakable,2000-11-22,Mystery,248118121.0,106.0,2000
+Spy Kids,2001-03-18,Adventure,147934180.0,88.0,2001
+Legally Blonde,2001-08-30,Romance,141774679.0,96.0,2001
+Sword Art Online: The Movie â€“ Ordinal Scale,2017-02-18,Science Fiction,20725409.0,119.0,2017
+Rings,2017-02-03,Horror,83080890.0,102.0,2017
+Halo Legends,2010-02-16,Drama,11000000.0,,2010
+Sully,2016-09-09,History,240797623.0,96.0,2016
+Immortals,2011-11-11,Drama,226904017.0,110.0,2011
+Dragon Ball Super: Broly,2018-12-14,Animation,125002821.0,99.0,2018
+Murder on the Orient Express,2017-11-30,Crime,352794081.0,114.0,2017
+War Room,2015-08-28,Romance,67790117.0,,2015
+Kubo and the Two Strings,2016-09-08,Family,76249438.0,102.0,2016
+Truth or Dare,2018-04-13,Horror,95330493.0,101.0,2018
+Kung Fu Hustle,2004-12-20,Fantasy,104000000.0,99.0,2004
+Kick-Ass,2010-04-16,Crime,96188903.0,117.0,2010
+Clueless,1995-10-20,Romance,56631572.0,97.0,1995
+Unfaithful,2002-05-10,Drama,119137784.0,124.0,2002
+Tremors,1990-01-19,Science Fiction,48572000.0,96.0,1990
+Underdogs,2013-07-18,Romance,34061097.0,106.0,2013
+Return to the Blue Lagoon,1991-08-02,Drama,2807854.0,98.0,1991
+A View to a Kill,1985-05-24,Thriller,152427960.0,131.0,1985
+Charlie's Angels,2019-11-14,Comedy,73279888.0,118.0,2019
+Die Hard 2,1990-07-03,Thriller,240031094.0,124.0,1990
+The NeverEnding Story,1984-04-05,Drama,20158808.0,102.0,1984
+Unknown,2011-02-18,Thriller,130786397.0,113.0,2011
+Contact,1997-10-02,Mystery,171120329.0,150.0,1997
+The French Dispatch,2021-12-09,Romance,46000000.0,108.0,2021
+Drag Me to Hell,2009-03-15,Thriller,90810892.0,99.0,2009
+Mulholland Drive,2001-10-19,Mystery,20271129.0,147.0,2001
+Scooby-Doo 2: Monsters Unleashed,2004-03-26,Comedy,181466833.0,93.0,2004
+All Dogs Go to Heaven,1989-11-17,Fantasy,27100027.0,89.0,1989
+You Don't Mess with the Zohan,2008-06-06,Action,204313400.0,113.0,2008
+Dark City,1998-02-27,Science Fiction,27200316.0,100.0,1998
+Million Dollar Baby,2005-02-17,Drama,216763646.0,132.0,2005
+After Earth,2013-06-06,Adventure,243843127.0,100.0,2013
+Paul Blart: Mall Cop 2,2015-04-17,Family,107597242.0,94.0,2015
+The Last 10 Years,2022-03-04,Romance,22456368.0,124.0,2022
+Ex Machina,2015-07-09,Science Fiction,36869414.0,108.0,2015
+Resident Evil: Damnation,2012-09-25,Action,2325035.0,100.0,2012
+Alpha,2018-08-17,Drama,35808437.0,97.0,2018
+The Prestige,2006-10-19,Science Fiction,109676311.0,130.0,2006
+Jackass Forever,2022-02-03,Documentary,80340218.0,96.0,2022
+He's Just Not That Into You,2009-02-06,Drama,178866158.0,129.0,2009
+The Cat Returns,2002-07-19,Family,54016370.0,75.0,2002
+The Courier,2021-10-21,Action,26000000.0,112.0,2021
+Sleepers,1996-10-18,Thriller,165615285.0,147.0,1996
+The Amityville Horror,2005-05-13,Horror,108047131.0,90.0,2005
+A Nightmare on Elm Street Part 2: Freddy's Revenge,1985-11-01,Horror,30000000.0,87.0,1985
+Ghost in the Shell,1995-11-18,Science Fiction,515905.0,82.0,1995
+Passengers,2016-12-22,Science Fiction,303144152.0,116.0,2016
+Spies in Disguise,2019-12-25,Family,171616764.0,102.0,2019
+Tomorrow Never Dies,1997-12-11,Thriller,333011068.0,119.0,1997
+Zathura: A Space Adventure,2005-11-24,Family,65079104.0,101.0,2005
+Sinister,2012-10-11,Mystery,82515113.0,110.0,2012
+The Many Saints of Newark,2021-11-11,Drama,11620603.0,,2021
+The Usual Suspects,1995-08-16,Thriller,23341568.0,106.0,1995
+Cowboys & Aliens,2011-07-29,Western,174822325.0,119.0,2011
+Cobra,1986-05-23,Thriller,49042224.0,87.0,1986
+The Hateful Eight,2016-01-21,Western,155760117.0,188.0,2016
+Hitman,2007-11-29,Drama,99965753.0,89.0,2007
+Tad the Lost Explorer and the Secret of King Midas,2017-08-25,Family,34156960.0,85.0,2017
+In the Mood for Love,2000-09-29,Romance,12854953.0,99.0,2000
+Airplane!,1980-07-02,Comedy,83453539.0,88.0,1980
+Gone with the Wind,1939-12-15,Romance,402352579.0,238.0,1939
+Little Women,2020-01-16,History,216601214.0,135.0,2020
+Sinbad: Legend of the Seven Seas,2003-07-02,Action,80767884.0,90.0,2003
+Project Almanac,2015-01-28,Drama,33213241.0,106.0,2015
+Brokeback Mountain,2005-09-10,Romance,178043761.0,134.0,2005
+Deuce Bigalow: Male Gigolo,1999-12-10,Comedy,65535067.0,88.0,1999
+Planes,2013-09-05,Comedy,219788712.0,91.0,2013
+Sinkhole,2021-08-26,Drama,17970000.0,113.0,2021
+The Lego Batman Movie,2017-02-09,Family,311950384.0,104.0,2017
+Underworld: Rise of the Lycans,2009-02-05,Thriller,92158961.0,92.0,2009
+What Women Want,2001-01-24,Romance,374111707.0,127.0,2001
+Baise-moi,2000-06-28,Thriller,940944.0,77.0,2000
+Mission: Impossible II,2000-07-01,Thriller,546388105.0,123.0,2000
+Mamma Mia!,2008-09-18,Romance,609841637.0,108.0,2008
+American Assassin,2017-09-15,Thriller,67200000.0,112.0,2017
+Love and Monsters,2021-04-14,Fantasy,1070714.0,109.0,2021
+Noah,2014-03-27,Adventure,362637473.0,138.0,2014
+Lone Survivor,2014-02-13,History,149295601.0,121.0,2014
+RED,2010-11-11,Thriller,199000000.0,111.0,2010
+Annie,2014-12-19,Family,133821816.0,119.0,2014
+The Dreamers,2003-09-01,Romance,15121165.0,112.0,2003
+The Perks of Being a Wallflower,2012-10-25,Drama,33400000.0,103.0,2012
+Flashback,2021-12-10,Thriller,26747.0,97.0,2021
+Platoon,1987-03-18,Action,138530565.0,,1987
+Abominable,2019-11-07,Comedy,180289970.0,97.0,2019
+Underwater,2020-01-30,Science Fiction,40882928.0,95.0,2020
+Max Steel,2016-10-25,Science Fiction,6272403.0,92.0,2016
+Breakfast at Tiffany's,2009-09-14,Romance,9500000.0,114.0,2009
+Army of Darkness,1993-02-19,Comedy,21502976.0,81.0,1993
+The Lego Movie,2014-02-06,Fantasy,469160692.0,100.0,2014
+True Lies,1994-07-15,Thriller,378882411.0,141.0,1994
+Evil Dead II,1987-03-13,Fantasy,10900000.0,84.0,1987
+Antz,1998-11-05,Family,171757863.0,83.0,1998
+Come Play With Me,2021-02-25,Horror,1753826.0,80.0,2021
+Triangle,2010-04-29,Horror,1594955.0,99.0,2010
+Paul,2011-05-12,Science Fiction,97984015.0,104.0,2011
+Skinamarink,2022-07-25,Horror,1800000.0,100.0,2022
+I Know What You Did Last Summer,1998-01-08,Mystery,125586134.0,101.0,1998
+The Social Network,2010-10-28,Drama,224920315.0,121.0,2010
+Incendies,2010-09-17,Mystery,6788659.0,131.0,2010
+Level 16,2019-03-15,Thriller,15575.0,102.0,2019
+The Curse of Frankenstein,1957-05-20,Science Fiction,8000000.0,83.0,1957
+Men of Honor,2000-11-16,Drama,82343495.0,129.0,2000
+Onward,2020-03-05,Action,141940042.0,103.0,2020
+Dead Poets Society,2006-01-17,Drama,235860116.0,128.0,2006
+Fireworks,2017-08-18,Fantasy,26617621.0,90.0,2017
+We're the Millers,2013-09-05,Crime,269994119.0,110.0,2013
+Amélie,2001-12-31,Romance,173921954.0,122.0,2001
+Shadow in the Cloud,2021-01-28,War,1025190.0,83.0,2021
+One Piece: Curse of the Sacred Sword,2004-03-06,Action,13422333.0,95.0,2004
+When Marnie Was There,2014-07-19,Family,34949567.0,103.0,2014
+Goosebumps 2: Haunted Halloween,2018-10-12,Horror,93320380.0,90.0,2018
+Johnny English Reborn,2011-10-07,Thriller,160078586.0,101.0,2011
+The Thing,2011-10-14,Thriller,31505287.0,103.0,2011
+Perfect Blue,1997-07-25,Thriller,112536.0,81.0,1997
+Chaos Walking,2021-03-11,Science Fiction,26943020.0,109.0,2021
+Samson,2018-02-16,Adventure,4873825.0,110.0,2018
+No Game No Life: Zero,2017-07-15,Drama,6000000.0,106.0,2017
+The Witch,2016-02-19,Fantasy,40423945.0,92.0,2016
+Original Sin,2001-08-03,Romance,35402320.0,118.0,2001
+Beautiful Boy,2018-10-25,Drama,7649973.0,121.0,2018
+Stepmom,1998-12-25,Comedy,159710793.0,125.0,1998
+Mr. Peabody & Sherman,2014-03-13,Family,272912430.0,92.0,2014
+Till,2022-10-14,History,8900000.0,131.0,2022
+The Terminal,2004-09-02,Drama,219417255.0,128.0,2004
+No Escape,2015-08-27,Thriller,54418872.0,103.0,2015
+Conan the Barbarian,1982-05-14,Action,79114085.0,129.0,1982
+Storks,2016-09-23,Family,182379278.0,87.0,2016
+American Gangster,2008-01-10,Crime,266465037.0,157.0,2008
+King Arthur: Legend of the Sword,2017-05-12,Fantasy,148675066.0,126.0,2017
+The Accountant,2016-10-14,Drama,155160045.0,128.0,2016
+Knight and Day,2010-06-23,Comedy,261989769.0,109.0,2010
+Smurfs: The Lost Village,2017-04-07,Comedy,197183546.0,89.0,2017
+Cult of Chucky,2017-10-03,Thriller,2200000.0,91.0,2017
+Twin Dragons,1992-01-15,Action,8332431.0,104.0,1992
+Naked Gun 33â…“: The Final Insult,1994-03-18,Crime,51132598.0,83.0,1994
+Ouija,2014-10-24,Horror,103590271.0,89.0,2014
+Jonah Hex,2010-06-18,Thriller,10539000.0,81.0,2010
+Birdman or (The Unexpected Virtue of Ignorance),2015-01-15,Comedy,103215094.0,,2015
+Dumb and Dumber To,2014-11-13,Comedy,169837010.0,110.0,2014
+The Karate Kid,1984-06-22,Drama,130442786.0,126.0,1984
+Couples Retreat,2009-10-09,Romance,171844840.0,113.0,2009
+Fantastic Mr. Fox,2009-11-13,Family,46471023.0,87.0,2009
+Horton Hears a Who!,2008-03-03,Fantasy,298572799.0,86.0,2008
+The Smurfs,2011-07-29,Fantasy,563749323.0,103.0,2011
+The Rock,1996-06-07,Thriller,335062621.0,137.0,1996
+Mary Poppins,2009-01-27,Fantasy,103082380.0,139.0,2009
+Step Up 2: The Streets,2008-02-14,Romance,150816700.0,98.0,2008
+Bros,2022-09-30,Romance,14800000.0,115.0,2022
+Blade: Trinity,2004-12-09,Fantasy,128905366.0,123.0,2004
+Night Watch,2004-06-27,Thriller,50336279.0,114.0,2004
+The Hot Chick,2002-12-13,Fantasy,54639553.0,104.0,2002
+The Next Three Days,2010-11-19,Crime,67448651.0,133.0,2010
+Underworld: Evolution,2006-03-02,Thriller,111476513.0,106.0,2006
+Mama,2013-01-17,Horror,146497771.0,100.0,2013
+Halloween,2018-10-25,Thriller,255614941.0,106.0,2018
+Forgotten,2017-11-29,Drama,9900000.0,108.0,2017
+Goosebumps,2015-08-05,Comedy,158162788.0,103.0,2015
+Species,1995-07-07,Action,113374103.0,108.0,1995
+Space Jam,1996-11-15,Science Fiction,250200000.0,88.0,1996
+Godzilla: Final Wars,2004-12-04,Thriller,12000000.0,125.0,2004
+Facing the Giants,2006-09-29,Drama,10178331.0,111.0,2006
+Casino,1996-03-14,Drama,116112375.0,179.0,1996
+Coming to America,1988-06-29,Romance,288752301.0,117.0,1988
+Epic,2013-05-30,Fantasy,268426634.0,102.0,2013
+Courageous,2011-09-30,Drama,34522221.0,129.0,2011
+The Last Samurai,2013-05-07,War,456758981.0,154.0,2013
+Deepwater Horizon,2016-09-29,Action,121790373.0,107.0,2016
+The Da Vinci Code,2006-05-18,Mystery,767820459.0,149.0,2006
+Hard Target,1993-08-20,Action,74189677.0,97.0,1993
+Planes: Fire & Rescue,2014-07-18,Family,151165787.0,83.0,2014
+One Flew Over the Cuckoo's Nest,1975-11-19,Drama,108981275.0,133.0,1975
+Step Up Revolution,2012-08-30,Romance,140470746.0,99.0,2012
+Lights Out,2016-07-22,Mystery,148868835.0,81.0,2016
+The Texas Chain Saw Massacre,1974-10-01,Horror,30900000.0,83.0,1974
+Fences,2016-12-16,Drama,64414761.0,139.0,2016
+CJ7,2008-01-30,Science Fiction,47301471.0,86.0,2008
+12 Years a Slave,2013-12-19,History,187000000.0,134.0,2013
+The Worst Person in the World,2022-02-24,Romance,11800000.0,128.0,2022
+Nutty Professor II: The Klumps,2000-07-27,Science Fiction,123307945.0,106.0,2000
+mother!,2017-09-14,Mystery,44516999.0,121.0,2017
+Turbo,2013-08-01,Family,282570682.0,96.0,2013
+Father There Is Only One 2,2020-07-29,Family,14871307.0,96.0,2020
+Zoolander 2,2016-03-03,Action,56722693.0,100.0,2016
+xXx: State of the Union,2005-04-28,Thriller,71073932.0,101.0,2005
+Zodiac,2007-05-31,Thriller,84785914.0,157.0,2007
+Dora and the Lost City of Gold,2019-08-29,Fantasy,119682635.0,102.0,2019
+The Bourne Identity,2002-09-12,Thriller,214034224.0,119.0,2002
+A Knight's Tale,2001-09-27,Action,117487473.0,132.0,2001
+Jaws 3-D,1983-07-22,Horror,87987055.0,99.0,1983
+"South Park: Bigger, Longer & Uncut",1999-06-30,Comedy,83137603.0,81.0,1999
+Crazy Rich Asians,2018-08-15,Romance,238539198.0,121.0,2018
+Assassin's Creed,2017-01-01,Science Fiction,240697856.0,115.0,2017
+13 Assassins,2011-05-06,Action,17555141.0,141.0,2011
+The Sorcerer's Apprentice,2010-07-13,Action,215283742.0,109.0,2010
+I Feel Pretty,2018-04-20,Romance,94539426.0,111.0,2018
+The Holiday,2006-12-08,Romance,194168700.0,136.0,2006
+Leap Year,2010-02-26,Comedy,32686500.0,100.0,2010
+The Road,2009-11-25,Drama,27635305.0,111.0,2009
+Mad Max 2,1981-12-24,Science Fiction,24600832.0,96.0,1981
+The Mule,2019-01-10,Thriller,174804407.0,116.0,2019
+The Bob's Burgers Movie,2022-05-27,Comedy,34032606.0,102.0,2022
+Back to the Future Part III,1990-05-25,Science Fiction,244527583.0,119.0,1990
+Starship Troopers,1997-11-20,Science Fiction,121214377.0,129.0,1997
+A History of Violence,2005-09-23,Crime,60740827.0,96.0,2005
+Secretary,2002-09-20,Romance,9304609.0,104.0,2002
+The Babysitters,2008-05-09,Drama,44852.0,88.0,2008
+The Secret Life of Walter Mitty,2013-12-25,Fantasy,188133322.0,114.0,2013
+Cold Pursuit,2019-02-21,Thriller,76419755.0,119.0,2019
+Hardcore Henry,2016-04-06,Science Fiction,14333790.0,96.0,2016
+DodgeBall: A True Underdog Story,2004-06-18,Comedy,167722310.0,92.0,2004
+Where the Wild Things Are,2009-10-16,Adventure,100140916.0,101.0,2009
+Tombstone,1993-12-25,Action,56505065.0,130.0,1993
+Parker,2013-02-14,Crime,46216641.0,118.0,2013
+Brick Mansions,2014-04-23,Drama,68896829.0,90.0,2014
+Rurouni Kenshin Part I: Origins,2012-08-25,History,61700000.0,134.0,2012
+The Mountain Between Us,2017-10-26,Drama,62832209.0,109.0,2017
+Dogtooth,2009-10-22,Drama,110197.0,98.0,2009
+1408,2007-08-30,Mystery,132963417.0,104.0,2007
+Wallace & Gromit: The Curse of the Were-Rabbit,2005-10-07,Family,192610372.0,85.0,2005
+Peppermint,2018-09-07,Thriller,53918723.0,102.0,2018
+Paranormal Activity: The Marked Ones,2014-01-01,Thriller,86362372.0,84.0,2014
+Uncut Gems,2020-01-31,Crime,50020902.0,136.0,2020
+Naruto: Ninja Clash in the Land of Snow,2004-08-21,Adventure,17400000.0,82.0,2004
+The Exorcism of Carmen Farias,2021-05-05,Horror,1474579.0,93.0,2021
+The Wild,2006-04-27,Animation,102338515.0,95.0,2006
+Return of the Jedi,1983-05-25,Science Fiction,572700000.0,135.0,1983
+Twins,1988-12-09,Comedy,216614388.0,107.0,1988
+Rumble in the Bronx,1995-01-21,Thriller,32392047.0,104.0,1995
+Spy,2015-06-05,Crime,235666219.0,,2015
+Once Upon a Time in America,1984-06-01,Crime,5472914.0,229.0,1984
+CHiPS,2017-03-24,Crime,26800152.0,100.0,2017
+Memories of Murder,2003-05-02,Thriller,26000000.0,131.0,2003
+Caligula,1980-02-01,Romance,23438120.0,156.0,1980
+Free Willy,1993-07-16,Drama,153698625.0,112.0,1993
+Neighbors,2014-05-08,Comedy,270665134.0,97.0,2014
+Paranormal Activity 3,2011-10-20,Mystery,207039844.0,94.0,2011
+Oz the Great and Powerful,2013-03-07,Family,491868548.0,130.0,2013
+The Adventures of Tintin,2011-11-10,Mystery,371940071.0,107.0,2011
+Robin Hood,2018-11-22,Thriller,86493046.0,116.0,2018
+Doctor Dolittle,1998-06-26,Fantasy,294456605.0,85.0,1998
+London Fields,2018-09-20,Thriller,487420.0,118.0,2018
+Dragon Wars: D-War,2007-08-01,Science Fiction,75108998.0,90.0,2007
+Dragonball Evolution,2009-04-08,Thriller,58228460.0,85.0,2009
+The Foreigner,2017-09-30,Thriller,145374099.0,113.0,2017
+Bound,1996-10-04,Thriller,7011317.0,105.0,1996
+Diary of a Wimpy Kid,2010-03-19,Family,76196538.0,92.0,2010
+The Jack in the Box,2019-11-09,Horror,1035734.0,87.0,2019
+Mars Attacks!,1996-12-12,Science Fiction,101371017.0,106.0,1996
+Kill Bill: Vol. 2,2004-04-22,Thriller,152159461.0,136.0,2004
+Magic Mike XXL,2015-07-01,Drama,117813057.0,115.0,2015
+Confessions of a Shopaholic,2009-02-05,Romance,108332743.0,104.0,2009
+Nausicaä of the Valley of the Wind,1984-03-11,Fantasy,3301446.0,117.0,1984
+Samson and Delilah,1949-12-21,Adventure,11500000.0,134.0,1949
+A Nightmare on Elm Street,2010-04-30,Thriller,115664037.0,95.0,2010
+Hummingbird,2013-05-09,Thriller,8352885.0,100.0,2013
+The Other Guys,2010-08-06,Crime,170432927.0,107.0,2010
+Chinatown,1974-06-20,Thriller,30000000.0,130.0,1974
+Freaky Friday,2003-08-06,Fantasy,160846332.0,97.0,2003
+Hook,1991-12-11,Family,300855000.0,142.0,1991
+The Pirates: The Last Royal Treasure,2022-03-02,Comedy,10247262.0,126.0,2022
+21 Bridges,2019-11-21,Drama,49939757.0,99.0,2019
+Dumbo,2019-03-28,Adventure,215832199.0,112.0,2019
+Marcel the Shell with Shoes On,2022-06-24,Adventure,6000000.0,90.0,2022
+Primal Fear,1996-04-03,Thriller,102616183.0,129.0,1996
+Gone in Sixty Seconds,2000-06-09,Thriller,237202299.0,118.0,2000
+Coyote Ugly,2000-07-30,Romance,113916474.0,100.0,2000
+The Mermaid,2016-02-08,Romance,553810228.0,93.0,2016
+No Good Deed,2014-09-12,Thriller,53830415.0,83.0,2014
+See How They Run,2022-09-29,Thriller,21921551.0,98.0,2022
+Cleopatra,2013-05-28,Romance,71000000.0,248.0,2013
+Mad Max,1979-04-12,Science Fiction,8771757.0,91.0,1979
+Lemony Snicket's A Series of Unfortunate Events,2005-03-03,Family,209073645.0,108.0,2005
+Happy Death Day,2017-10-13,Comedy,125479266.0,97.0,2017
+Downton Abbey: A New Era,2022-04-28,Romance,88000000.0,125.0,2022
+The Pacifier,2005-03-04,Action,198636868.0,95.0,2005
+Unbroken,2015-02-04,War,163442937.0,137.0,2015
+Con Air,1997-06-19,Crime,224012234.0,116.0,1997
+The Happening,2008-06-13,Science Fiction,163403799.0,91.0,2008
+Pitch Perfect,2012-11-08,Romance,115400000.0,112.0,2012
+365 Days,2020-02-07,Drama,9458590.0,116.0,2020
+American Beauty,2000-03-02,Drama,356296601.0,122.0,2000
+Poltergeist,2015-06-18,Horror,95437994.0,93.0,2015
+Hostel: Part II,2007-06-08,Horror,35728183.0,93.0,2007
+AVP: Alien vs. Predator,2004-08-19,Horror,177427090.0,101.0,2004
+All My Life,2020-12-04,Drama,2000000.0,93.0,2020
+Horrible Bosses,2011-08-04,Crime,209838559.0,98.0,2011
+Giant,1956-11-24,Western,32855818.0,201.0,1956
+Ben-Hur,2016-08-18,Drama,94061311.0,125.0,2016
+The Outlaws,2017-10-03,Crime,52946454.0,121.0,2017
+Sheena,1984-08-17,Science Fiction,5778353.0,117.0,1984
+Cyrano,2022-03-10,Romance,3000000.0,124.0,2022
+The Scorpion King,2002-04-19,Fantasy,165333180.0,92.0,2002
+A Million Ways to Die in the West,2014-06-11,Western,86410000.0,116.0,2014
+"Me gusta, pero me asusta",2017-09-22,Comedy,5549592.0,100.0,2017
+Superman IV: The Quest for Peace,1987-07-24,Science Fiction,19300000.0,90.0,1987
+Boss Level,2021-03-05,Thriller,2000000.0,94.0,2021
+Bleach the Movie: Hell Verse,2010-12-04,Adventure,8749681.0,94.0,2010
+Dilwale Dulhania Le Jayenge,1995-10-19,Romance,100000000.0,190.0,1995
+Grand Isle,2019-12-06,Action,5566.0,97.0,2019
+Halloween,2007-08-31,Horror,80460948.0,110.0,2007
+Occupation: Rainfall,2020-10-30,Action,331091.0,128.0,2020
+Skyline,2010-11-12,Action,66984888.0,92.0,2010
+Click,2006-06-23,Fantasy,240685326.0,107.0,2006
+The Ring Two,2005-04-07,Thriller,161451538.0,110.0,2005
+Lovelace,2013-08-09,Drama,1585582.0,92.0,2013
+How to Be Single,2016-02-11,Romance,112343513.0,110.0,2016
+The Invisible Man,2020-02-27,Horror,130234661.0,124.0,2020
+The Others,2001-12-20,Thriller,209947037.0,101.0,2001
+The Bourne Legacy,2012-08-08,Thriller,276572938.0,135.0,2012
+Demolition Man,1993-10-08,Science Fiction,58055768.0,115.0,1993
+"Legally Blonde 2: Red, White & Blonde",2003-07-02,Romance,124914842.0,95.0,2003
+Cell 211,2009-11-06,Drama,19300483.0,110.0,2009
+Spy Kids 2: The Island of Lost Dreams,2002-08-07,Science Fiction,119723358.0,100.0,2002
+Witch Hunt,2021-10-01,Drama,56415.0,92.0,2021
+Sanctum,2011-02-03,Thriller,108609310.0,108.0,2011
+The Dark Tower,2017-08-03,Adventure,113231078.0,95.0,2017
+Firestarter,2022-05-12,Horror,10593000.0,94.0,2022
+Warlock: The Armageddon,1993-09-24,Action,3902679.0,98.0,1993
+War,2007-08-24,Thriller,40452643.0,103.0,2007
+The Last House on the Left,2009-03-13,Drama,32721635.0,110.0,2009
+Solace,2016-12-16,Mystery,22586863.0,101.0,2016
+Warlock,1991-01-11,Action,9094451.0,103.0,1991
+Quantum of Solace,2008-11-14,Crime,589580482.0,106.0,2008
+Spy Kids 3-D: Game Over,2003-07-25,Science Fiction,197011982.0,84.0,2003
+Emma.,2020-02-14,Romance,25155355.0,125.0,2020
+Batman: Under the Red Hood,2010-07-27,Mystery,6629178.0,75.0,2010
+From Dusk Till Dawn,1996-01-19,Crime,25836616.0,108.0,1996
+Leatherface,2017-10-20,Mystery,1476843.0,88.0,2017
+30 Days of Night,2007-10-19,Thriller,75505973.0,113.0,2007
+The Call,2013-05-02,Thriller,68572378.0,94.0,2013
+Dark Shadows,2012-05-10,Fantasy,245527149.0,113.0,2012
+Snatch,2001-03-29,Comedy,83557872.0,103.0,2001
+Horrible Bosses 2,2014-11-26,Comedy,107670357.0,108.0,2014
+Tower Heist,2011-11-03,Comedy,152930623.0,104.0,2011
+Midnight Sun,2018-03-23,Drama,27365467.0,91.0,2018
+Tooth Fairy,2010-01-22,Fantasy,112462508.0,101.0,2010
+Papillon,2018-08-24,Drama,10060903.0,134.0,2018
+Charlie's Angels,2000-11-02,Thriller,264105545.0,98.0,2000
+Overboard,2018-05-04,Comedy,91244913.0,112.0,2018
+Hostel,2006-04-20,Horror,81979826.0,94.0,2006
+Silent Hill: Revelation 3D,2012-12-06,Mystery,55362705.0,94.0,2012
+Road to Perdition,2002-07-12,Thriller,181001478.0,117.0,2002
+Everest,2015-09-23,History,203427584.0,121.0,2015
+Tekken,2011-07-19,Science Fiction,967000.0,92.0,2011
+Beauty and the Beast,2014-02-12,Romance,49100000.0,112.0,2014
+Chinese Zodiac,2012-12-20,Adventure,171339013.0,109.0,2012
+Midnight in the Switchgrass,2021-07-23,Action,229811.0,99.0,2021
+The Dinosaur Project,2012-10-18,Horror,2412576.0,83.0,2012
+The Raid,2012-05-17,Crime,9148519.0,101.0,2012
+The Blue Lagoon,1980-07-05,Adventure,58853106.0,104.0,1980
+Anger Management,2003-04-11,Comedy,195745823.0,106.0,2003
+Cursed,2005-06-02,Comedy,19294901.0,97.0,2005
+Undisputed,2002-08-23,Crime,14946150.0,96.0,2002
+Kingdom of Heaven,2005-05-05,War,218122627.0,144.0,2005
+Mrs. Harris Goes to Paris,2022-10-20,Comedy,10370305.0,116.0,2022
+Into the Storm,2014-08-06,Thriller,160602194.0,89.0,2014
+The Dirty Dozen,1967-06-15,War,45300000.0,150.0,1967
+High School Musical 3: Senior Year,2008-10-22,Music,252909177.0,117.0,2008
+Looper,2012-10-11,Science Fiction,47042000.0,118.0,2012
+"Big Mommas: Like Father, Like Son",2011-02-18,Action,83615414.0,107.0,2011
+Licorice Pizza,2022-01-20,Comedy,27423319.0,133.0,2022
+Bad Lieutenant: Port of Call - New Orleans,2009-11-20,Crime,10589102.0,122.0,2009
+Rush,2013-09-26,Action,90247624.0,123.0,2013
+Us,2019-03-21,Mystery,255105930.0,116.0,2019
+The Bank Job,2008-07-31,Drama,64828421.0,112.0,2008
+Guardians,2017-03-09,Thriller,4803565.0,100.0,2017
+Coherence,2013-09-19,Science Fiction,102617.0,89.0,2013
+The Rundown,2003-09-26,Thriller,80916492.0,104.0,2003
+Before Sunrise,1995-01-27,Romance,5987386.0,101.0,1995
+Silverado,1985-07-10,Western,32192570.0,133.0,1985
+The Smurfs 2,2013-09-05,Animation,347434178.0,105.0,2013
+Mortal Kombat,1995-08-18,Fantasy,122195920.0,101.0,1995
+Enough,2002-05-24,Thriller,51801187.0,114.0,2002
+Child 44,2015-04-17,Thriller,3324330.0,137.0,2015
+The Flintstones,1994-05-26,Family,341631208.0,91.0,1994
+West Side Story,2022-01-06,Crime,74530532.0,157.0,2022
+Amadeus,1984-09-19,Drama,51973029.0,160.0,1984
+The Dukes of Hazzard,2005-09-29,Action,110803676.0,104.0,2005
+Upgrade,2020-09-24,Science Fiction,16593554.0,100.0,2020
+What's Eating Gilbert Grape,1993-12-17,Drama,10032765.0,118.0,1993
+Once Upon a Time in the West,1968-12-21,Western,5380118.0,166.0,1968
+Heaven Is for Real,2014-04-16,Drama,101332962.0,99.0,2014
+A Cinderella Story,2004-07-10,Romance,70067909.0,95.0,2004
+The Lover,1992-01-22,Romance,5013090.0,115.0,1992
+Elysium,2013-08-09,Thriller,286140700.0,109.0,2013
+Ride Along 2,2016-02-25,Comedy,124827316.0,102.0,2016
+The 5th Wave,2016-01-28,Action,109906372.0,112.0,2016
+The Spiderwick Chronicles,2008-02-14,Drama,164170327.0,95.0,2008
+The Shape of Water,2017-12-01,Romance,194989655.0,123.0,2017
+The Vigil,2021-02-26,Mystery,742476.0,88.0,2021
+The Great Escape,1963-07-04,War,11744471.0,173.0,1963
+Goldfinger,1964-12-21,Thriller,124881062.0,110.0,1964
+Doctor Sleep,2019-11-07,Fantasy,72281712.0,152.0,2019
+The Golden Compass,2007-12-05,Fantasy,372234864.0,113.0,2007
+Superman Returns,2006-06-29,Adventure,391081192.0,154.0,2006
+Philomena,2013-11-27,Drama,100129872.0,98.0,2013
+Spy Kids: All the Time in the World,2011-08-19,Action,85564310.0,89.0,2011
+Operation Red Sea,2018-02-16,Drama,579220560.0,139.0,2018
+Contraband,2012-05-16,Crime,96262212.0,109.0,2012
+Seven Samurai,1954-04-26,Drama,346300.0,207.0,1954
+Pitch Perfect 3,2017-12-22,Music,184724494.0,93.0,2017
+Basic Instinct 2,2006-07-13,Thriller,38629478.0,114.0,2006
+My Name Is Khan,2010-02-10,Romance,42345360.0,165.0,2010
+The Last Boy Scout,1991-12-13,Thriller,59509925.0,105.0,1991
+The Warrior's Way,2010-12-03,Thriller,11087569.0,100.0,2010
+Open Season,2006-11-30,Comedy,197309027.0,86.0,2006
+The Hustle,2019-05-09,Crime,97409779.0,94.0,2019
+Legends of the Fall,1994-12-16,Western,160638883.0,133.0,1994
+Trinity Seven 2: Heaven's Library & Crimson Lord,2019-03-29,Comedy,15712.0,61.0,2019
+2 Guns,2013-08-02,Crime,131940411.0,109.0,2013
+Eden Lake,2009-01-15,Thriller,3984669.0,91.0,2009
+Sky High,2005-07-29,Family,86369815.0,100.0,2005
+Holy Spider,2023-01-12,Thriller,1252637.0,118.0,2023
+Yesterday,2019-08-08,Romance,88092097.0,116.0,2019
+"I, Tonya",2017-12-08,Drama,53939297.0,,2017
+Into the Deep,2022-08-26,Thriller,42195.0,90.0,2022
+Christopher Robin,2018-08-03,Fantasy,99138899.0,104.0,2018
+Kingsglaive: Final Fantasy XV,2016-07-09,Action,269980.0,115.0,2016
+Carrie,2013-10-24,Horror,82394288.0,100.0,2013
+The Gods Must Be Crazy,1984-07-13,Comedy,60000000.0,109.0,1984
+RED 2,2013-07-19,Thriller,148100000.0,116.0,2013
+You Only Live Twice,1967-06-13,Adventure,111584787.0,117.0,1967
+We Were Soldiers,2002-03-01,War,114660784.0,138.0,2002
+Studio 666,2022-02-25,Music,3000776.0,106.0,2022
+Slender Man,2018-08-10,Thriller,11817275.0,93.0,2018
+"One Piece: Episode of Chopper Plus: Bloom in the Winter, Miracle Cherry Blossom",2008-03-01,Comedy,8654110.0,95.0,2008
+Garfield: A Tail of Two Kitties,2006-06-15,Adventure,141702264.0,78.0,2006
+Wind River,2017-08-04,Thriller,44998252.0,107.0,2017
+Igor,2008-09-19,Horror,30700000.0,87.0,2008
+Vivarium,2020-07-23,Mystery,427399.0,97.0,2020
+Game Night,2018-02-23,Crime,117501013.0,100.0,2018
+The Living Daylights,1987-06-29,Thriller,191185897.0,130.0,1987
+Sadako,2019-05-24,Horror,5481562.0,99.0,2019
+Run All Night,2015-03-13,Mystery,71561644.0,114.0,2015
+The Man from Nowhere,2011-03-17,Crime,43059790.0,119.0,2011
+The Descent: Part 2,2010-04-27,Thriller,7048886.0,94.0,2010
+Stonehearst Asylum,2014-10-24,Horror,2478806.0,112.0,2014
+Evan Almighty,2007-06-09,Family,174440724.0,96.0,2007
+Barbie in A Mermaid Tale 2,2012-03-06,Family,15489307.0,74.0,2012
+Magic Mike,2012-08-09,Comedy,167221571.0,110.0,2012
+3096 Days,2013-02-28,Drama,6677474.0,111.0,2013
+The Unborn,2009-01-09,Mystery,76514050.0,87.0,2009
+[REC]⁴ Apocalypse,2014-10-31,Horror,4915757.0,95.0,2014
+Winnie the Pooh,2011-07-15,Adventure,14460000.0,63.0,2011
+George of the Jungle,1997-07-15,Romance,174463257.0,93.0,1997
+Lockout,2012-04-18,Science Fiction,32948113.0,95.0,2012
+Spider-Man 2,2004-06-30,Fantasy,783766341.0,127.0,2004
+Bordello of Blood,1996-08-16,Comedy,5600000.0,87.0,1996
+Teenage Mutant Ninja Turtles,1990-03-30,Family,201965915.0,93.0,1990
+The Visit,2015-09-17,Horror,98450062.0,94.0,2015
+Turbo: A Power Rangers Movie,1997-03-27,Science Fiction,9679739.0,99.0,1997
+Overlord,2018-11-09,Science Fiction,41657844.0,110.0,2018
+Only the Brave,2017-10-20,History,25754775.0,133.0,2017
+The Change-Up,2011-10-06,Comedy,75450437.0,112.0,2011
+Pet Sematary II,1992-08-28,Horror,17092453.0,100.0,1992
+Pride and Prejudice and Zombies,2016-02-05,Thriller,16457494.0,108.0,2016
+Evangelion: 3.0 You Can (Not) Redo,2012-11-17,Drama,60487945.0,96.0,2012
+Into the White,2012-03-09,Drama,712216.0,104.0,2012
+The Messenger: The Story of Joan of Arc,1999-11-12,War,66976317.0,158.0,1999
+Huevos: Little Rooster's Egg-Cellent Adventure,2015-09-04,Family,26072723.0,99.0,2015
+Halloween 5: The Revenge of Michael Myers,1989-10-13,Thriller,11642254.0,97.0,1989
+A Walk in the Clouds,1995-08-11,Romance,50012507.0,103.0,1995
+21,2008-03-27,Crime,159808370.0,123.0,2008
+Dawn of the Dead,1979-04-20,Horror,55000000.0,127.0,1979
+Catwoman,2004-08-12,Crime,82102379.0,104.0,2004
+Barnyard,2006-08-31,Family,116476887.0,90.0,2006
+She's the Man,2006-03-17,Romance,33889159.0,105.0,2006
+Hero,2002-12-19,History,177394432.0,99.0,2002
+Batman: The Killing Joke,2016-07-22,Drama,3775000.0,76.0,2016
+Contagion,2011-09-09,Science Fiction,137551594.0,106.0,2011
+The Boy and the Beast,2015-07-11,Fantasy,49714378.0,119.0,2015
+Jason Goes to Hell: The Final Friday,1993-08-13,Horror,15938065.0,87.0,1993
+The Family Stone,2005-12-15,Romance,92884429.0,103.0,2005
+Love Actually,2003-11-21,Drama,244931766.0,135.0,2003
+The 40 Year Old Virgin,2005-08-11,Romance,177378645.0,116.0,2005
+The Prince of Egypt,1998-12-18,Family,218613188.0,99.0,1998
+Signs,2002-08-02,Mystery,408247917.0,106.0,2002
+The Doorman,2020-10-09,Thriller,307873.0,97.0,2020
+Call of the Wild,2009-06-12,Adventure,270210.0,87.0,2009
+The Crush,1993-04-02,Thriller,13609396.0,89.0,1993
+Star Wars: Episode II - Attack of the Clones,2002-05-16,Science Fiction,649398328.0,142.0,2002
+"O Brother, Where Art Thou?",2000-12-21,Crime,71870729.0,107.0,2000
+Walking with Dinosaurs,2013-12-19,Adventure,126546518.0,87.0,2013
+Push,2009-02-06,Action,49678401.0,111.0,2009
+9 Songs,2006-07-25,Romance,1574623.0,69.0,2006
+There's Something About Mary,1998-09-17,Comedy,369884651.0,119.0,1998
+The Time Machine,2002-03-04,Action,123729176.0,96.0,2002
+Pokémon 3: The Movie,2000-07-08,Family,68411275.0,74.0,2000
+Gravity,2013-10-10,Drama,723192705.0,91.0,2013
+The Ash Lad: In the Hall of the Mountain King,2017-09-29,Fantasy,4522950.0,100.0,2017
+Cloud Atlas,2012-10-26,Science Fiction,130482868.0,172.0,2012
+Gridiron Gang,2006-09-15,Drama,41480851.0,125.0,2006
+Clue,1985-12-13,Mystery,14643997.0,94.0,1985
+Instructions Not Included,2013-07-20,Drama,99067206.0,122.0,2013
+Godzilla,1998-06-04,Thriller,379014294.0,138.0,1998
+Footloose,2011-10-14,Romance,63543328.0,113.0,2011
+Frankenweenie,2012-11-15,Family,81493846.0,87.0,2012
+Lara Croft: Tomb Raider,2001-06-14,Thriller,274703340.0,100.0,2001
+The Crow,1994-05-11,Thriller,50694672.0,102.0,1994
+A Dirty Shame,2004-09-24,Comedy,1914166.0,89.0,2004
+Billy Elliot,2001-03-22,Music,109280263.0,110.0,2001
+God's Not Dead,2014-03-21,Drama,29789000.0,113.0,2014
+Heartbreakers,2001-03-23,Crime,57756408.0,123.0,2001
+Austin Powers: International Man of Mystery,1997-05-02,Crime,67711748.0,94.0,1997
+Percy Jackson: Sea of Monsters,2013-08-29,Fantasy,199850315.0,106.0,2013
+The Ice Road,2021-07-15,Thriller,7502846.0,108.0,2021
+Unstoppable,2010-11-04,Thriller,167805466.0,98.0,2010
+The Book of Eli,2010-03-18,Science Fiction,157107755.0,118.0,2010
+Brightburn,2019-05-09,Science Fiction,32893421.0,91.0,2019
+Sinister 2,2015-08-20,Horror,53329150.0,97.0,2015
+Portrait of a Lady on Fire,2020-02-14,Romance,9923127.0,,2020
+Stomp the Yard,2007-05-17,Music,75511123.0,114.0,2007
+Captain Fantastic,2016-07-14,Drama,23123592.0,118.0,2016
+Benedetta,2021-07-09,Romance,2652725.0,131.0,2021
+Mr. & Mrs. Smith,2005-06-09,Thriller,487287646.0,,2005
+Escape Plan,2013-10-24,Thriller,122915111.0,115.0,2013
+Empire of Light,2023-02-26,Romance,5251349.0,115.0,2023
+Waterworld,1995-07-28,Science Fiction,264218220.0,135.0,1995
+Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20,Horror,152000000.0,116.0,2007
+Halloween 4: The Return of Michael Myers,1988-10-21,Thriller,17800000.0,88.0,1988
+Freedom Writers,2007-03-29,Drama,43095175.0,123.0,2007
+Yes Man,2008-12-19,Romance,223241637.0,104.0,2008
+Astérix at the Olympic Games,2008-01-30,Family,132900000.0,116.0,2008
+Kick-Ass 2,2013-08-16,Crime,60700000.0,103.0,2013
+Last Christmas,2019-11-28,Romance,121550750.0,102.0,2019
+Evangelion: 1.0 You Are (Not) Alone,2008-03-13,Drama,20000000.0,101.0,2008
+Vampire Academy,2014-02-27,Fantasy,15391979.0,104.0,2014
+Cure,1997-12-27,Mystery,99000.0,111.0,1997
+The Bodyguard,2006-02-13,Romance,411006740.0,129.0,2006
+Crimes of the Future,2022-09-29,Science Fiction,4400000.0,107.0,2022
+Jerry Maguire,1997-03-27,Romance,273552592.0,138.0,1997
+God's Not Dead 2,2016-04-01,Drama,23507567.0,121.0,2016
+Cinema Paradiso,1988-11-17,Romance,11990401.0,124.0,1988
+Woodlawn,2015-10-16,Drama,14394097.0,123.0,2015
+The Big Short,2016-01-21,Drama,133346506.0,131.0,2016
+Uncle Drew,2018-06-29,Comedy,17665000.0,103.0,2018
+The Secret Life of Bees,2008-09-17,Drama,38105395.0,114.0,2008
+Melissa P.,2005-11-18,Drama,5151936.0,100.0,2005
+When Harry Met Sally...,1989-07-21,Drama,92823546.0,96.0,1989
+Twister,1996-08-08,Drama,494471524.0,113.0,1996
+Selena,1997-03-21,History,60000000.0,127.0,1997
+RoboCop,2014-02-12,Action,242688965.0,118.0,2014
+Into the Blue,2005-10-06,Crime,46117696.0,110.0,2005
+The Count of Monte Cristo,2002-01-23,History,75395048.0,131.0,2002
+Gnomeo & Juliet,2011-02-11,Family,189712432.0,84.0,2011
+Jack Ryan: Shadow Recruit,2014-01-16,Thriller,135511030.0,105.0,2014
+Piranha,1978-08-03,Comedy,16000000.0,94.0,1978
+The Tourist,2010-12-30,Romance,278731369.0,103.0,2010
+Notting Hill,1999-06-10,Drama,363889678.0,124.0,1999
+Superman II,1981-06-01,Adventure,190458706.0,127.0,1981
+Pan,2015-10-08,Action,128388320.0,111.0,2015
+The Lobster,2015-10-16,Romance,15656193.0,118.0,2015
+The Hurt Locker,2009-09-15,War,49230772.0,131.0,2009
+3:10 to Yuma,2008-01-17,Western,70016220.0,122.0,2008
+Barbarella,1968-10-10,Adventure,2500000.0,98.0,1968
+The November Man,2014-08-27,Thriller,32556119.0,108.0,2014
+A Perfect Murder,1998-10-22,Drama,128038368.0,107.0,1998
+Oculus,2014-04-23,Horror,44459951.0,104.0,2014
+Bitter Moon,1992-10-02,Romance,1862805.0,139.0,1992
+James and the Giant Peach,1996-04-12,Fantasy,28946127.0,79.0,1996
+Freddy's Dead: The Final Nightmare,1991-09-13,Thriller,34900000.0,89.0,1991
+Minority Report,2002-06-21,Mystery,358372926.0,145.0,2002
+The Bone Collector,2000-01-13,Crime,151493655.0,118.0,2000
+xXx,2002-08-09,Thriller,277448382.0,124.0,2002
+The Man with the Golden Gun,1974-12-18,Thriller,97572000.0,125.0,1974
+Mirai,2018-08-30,Drama,27526961.0,98.0,2018
+Cloudy Mountain,2021-10-21,Drama,58340541.0,114.0,2021
+Bad Teacher,2011-06-19,Comedy,216197492.0,92.0,2011
+The King's Daughter,2022-01-21,History,2182492.0,94.0,2022
+Ghostbusters,1984-06-08,Fantasy,296187079.0,107.0,1984
+Space Pirate Captain Harlock,2014-07-17,Science Fiction,18010317.0,115.0,2014
+Monte Carlo,2011-07-01,Romance,39782683.0,109.0,2011
+American Made,2017-08-31,Comedy,133511855.0,115.0,2017
+The Mechanic,2011-02-17,Crime,51070807.0,93.0,2011
+Transformers: Revenge of the Fallen,2009-06-24,Adventure,836303693.0,149.0,2009
+Happy Gilmore,1996-02-16,Comedy,41205099.0,92.0,1996
+Lethal Weapon 2,1989-07-07,Thriller,227853986.0,114.0,1989
+The Ultimate Gift,2007-03-09,Family,3438735.0,114.0,2007
+Mazinger Z: Infinity,2018-01-13,Animation,2732673.0,95.0,2018
+Blue Streak,1999-09-17,Crime,117758500.0,93.0,1999
+The Raven,2012-04-26,Mystery,29657751.0,111.0,2012
+The Big Lebowski,1998-08-27,Crime,46969409.0,117.0,1998
+Outcast,2015-02-27,Action,5148503.0,98.0,2015
+Friday the 13th Part 2,1981-05-01,Thriller,21722776.0,87.0,1981
+Safe,2012-05-10,Thriller,40346186.0,94.0,2012
+The Intern,2015-09-24,Comedy,194564672.0,121.0,2015
+Thunderball,1965-12-28,Thriller,141195658.0,130.0,1965
+Vertigo,2016-10-11,Thriller,7797728.0,128.0,2016
+The Forbidden Kingdom,2008-04-18,Fantasy,127906624.0,104.0,2008
+Evangelion: 2.0 You Can (Not) Advance,2009-11-12,Drama,41162041.0,112.0,2009
+Wyatt Earp,1994-06-24,Adventure,25052000.0,191.0,1994
+Stuart Little 2,2002-07-19,Comedy,169956806.0,78.0,2002
+Wild Child,2009-11-17,Romance,21972336.0,98.0,2009
+Zola,2020-01-24,Crime,3500000.0,86.0,2020
+Freaky,2020-11-13,Thriller,15104310.0,102.0,2020
+Walking Tall,2004-04-02,Thriller,57223890.0,86.0,2004
+Stan Helsing,2009-10-27,Comedy,1400000.0,90.0,2009
+Son of God,2014-02-28,Drama,67800064.0,138.0,2014
+The Father,2021-04-15,Drama,21029340.0,96.0,2021
+Friday the 13th Part VIII: Jason Takes Manhattan,1989-07-28,Thriller,14000000.0,100.0,1989
+The Bourne Ultimatum,2007-08-03,Thriller,442824138.0,115.0,2007
+Daddy's Home,2015-12-25,Comedy,242786137.0,96.0,2015
+Stand by Me,1986-08-08,Drama,52287414.0,89.0,1986
+Death Sentence,2007-08-31,Thriller,16974459.0,105.0,2007
+Night Hunter,2019-11-11,Thriller,1012932.0,95.0,2019
+The Silence,2019-05-23,Fantasy,2325977.0,91.0,2019
+Home Alone 3,1997-12-12,Family,79082515.0,102.0,1997
+The Raid 2,2014-03-28,Thriller,6566916.0,150.0,2014
+Hollow Man,2000-08-04,Thriller,190213455.0,112.0,2000
+Remember the Titans,2001-03-22,Drama,136706683.0,113.0,2001
+The Bourne Supremacy,2004-09-30,Thriller,288500217.0,108.0,2004
+Police Academy 2: Their First Assignment,1985-03-28,Crime,55600000.0,87.0,1985
+Charlotte's Web,2006-12-15,Fantasy,144000000.0,97.0,2006
+Gothika,2003-11-21,Thriller,141591324.0,98.0,2003
+"10,000 BC",2008-03-05,Fantasy,269784201.0,109.0,2008
+Tropic Thunder,2008-09-19,War,195702811.0,107.0,2008
+Breach,2020-12-18,Horror,39328.0,92.0,2020
+Patch Adams,1999-03-18,Drama,202292902.0,115.0,1999
+The Transporter Refueled,2015-09-10,Crime,72629670.0,95.0,2015
+The Core,2003-03-28,Science Fiction,74208267.0,136.0,2003
+The Three Stooges,2012-07-26,Comedy,54819301.0,92.0,2012
+Ghostbusters II,1989-06-16,Fantasy,215394738.0,108.0,1989
+King Arthur,2004-07-15,Action,203567857.0,126.0,2004
+Friday the 13th: The Final Chapter,1984-04-13,Horror,32980880.0,91.0,1984
+The Protector 2,2013-10-23,Action,3302463.0,104.0,2013
+The Impossible,2013-02-28,Thriller,198087212.0,113.0,2013
+Mamma Mia! Here We Go Again,2018-07-20,Romance,395044706.0,113.0,2018
+Big Trouble in Little China,1986-05-30,Fantasy,11000000.0,99.0,1986
+Krampus,2015-11-26,Fantasy,61788393.0,98.0,2015
+The Game Plan,2007-09-28,Family,147880543.0,110.0,2007
+The Doors,1991-03-01,History,34416893.0,140.0,1991
+Pokémon: The Rise of Darkrai,2007-07-14,Science Fiction,42538454.0,90.0,2007
+Forever My Girl,2018-01-26,Music,16367326.0,104.0,2018
+Hang 'em High,1968-07-31,Western,6800000.0,114.0,1968
+Diamonds Are Forever,1971-12-29,Thriller,116019547.0,,1971
+A Dog's Way Home,2019-01-11,Family,17643857.0,96.0,2019
+Stargate,1994-10-28,Science Fiction,196567262.0,121.0,1994
+Rigodon,2012-11-21,Mystery,31307.0,85.0,2012
+Death Wish,2018-03-02,Thriller,34017028.0,107.0,2018
+Wolf Children,2012-07-21,Fantasy,55060661.0,117.0,2012
+Poison Ivy,1992-05-08,Drama,1829804.0,88.0,1992
+For Your Eyes Only,1981-06-23,Thriller,195312802.0,128.0,1981
+Police Story 3: Super Cop,1992-07-04,Thriller,20483423.0,95.0,1992
+Commando,1985-10-03,Thriller,57500000.0,90.0,1985
+August Rush,2007-11-21,Music,66122026.0,114.0,2007
+Robin Hood: Prince of Thieves,1997-10-01,Romance,390493908.0,143.0,1997
+The Elephant Man,2020-09-29,History,26010864.0,124.0,2020
+I Still Know What You Did Last Summer,1998-12-31,Thriller,40002112.0,100.0,1998
+Fearless,2006-01-26,Action,68072848.0,103.0,2006
+12 Rounds,2009-03-27,Crime,17280326.0,108.0,2009
+Ray,2004-10-29,Music,124731534.0,152.0,2004
+Hacker,2016-12-02,Thriller,11239.0,95.0,2016
+Highlander,1986-08-29,Fantasy,12885193.0,116.0,1986
+Escape from Alcatraz,2017-04-25,Thriller,43004381.0,113.0,2017
+Mirrors,2008-08-15,Fantasy,72436439.0,111.0,2008
+Skiptrace,2016-07-22,Mystery,58500000.0,107.0,2016
+The Boy,2016-01-28,Mystery,73929392.0,97.0,2016
+Mike and Dave Need Wedding Dates,2016-07-28,Comedy,77068246.0,98.0,2016
+This Is the End,2013-06-12,Comedy,126041322.0,107.0,2013
+The Italian Job,2003-10-07,Crime,176070171.0,110.0,2003
+We Are Your Friends,2015-09-24,Comedy,11122090.0,96.0,2015
+The House with a Clock in Its Walls,2018-09-21,Comedy,131457147.0,105.0,2018
+Inferno,2016-10-28,Action,220021259.0,121.0,2016
+Daredevil,2003-03-06,Action,179179718.0,103.0,2003
+The League of Extraordinary Gentlemen,2003-08-14,Science Fiction,179265204.0,110.0,2003
+Mortdecai,2015-01-23,Adventure,47318560.0,107.0,2015
+The King of Fighters,2010-08-26,Science Fiction,2000371.0,93.0,2010
+Shaft,1971-06-25,Thriller,12121618.0,100.0,1971
+The Karate Kid Part III,1989-06-29,Adventure,38956288.0,112.0,1989
+The Darkest Minds,2018-08-03,Drama,41142379.0,105.0,2018
+Paddington 2,2017-11-10,Family,227300000.0,104.0,2017
+The Babadook,2014-05-22,Horror,10312540.0,94.0,2014
+Overdrive,2017-10-06,Mystery,7793.0,93.0,2017
+Arthur and the Invisibles,2006-12-13,Family,107944236.0,94.0,2006
+The Naked Gun 2½: The Smell of Fear,1991-06-28,Crime,86930411.0,85.0,1991
+Life,1999-04-16,Crime,73521587.0,108.0,1999
+Gremlins,2002-08-20,Comedy,153083102.0,106.0,2002
+Piranha 3DD,2012-06-01,Comedy,8493728.0,83.0,2012
+Elite Squad: The Enemy Within,2010-10-08,Crime,63027681.0,115.0,2010
+Color Out of Space,2020-02-20,Drama,1023510.0,111.0,2020
+Hellraiser,1987-09-18,Mystery,14575193.0,93.0,1987
+Spaceballs,1987-06-24,Science Fiction,38119483.0,96.0,1987
+The Naked Gun: From the Files of Police Squad!,1988-12-02,Crime,78756177.0,86.0,1988
+Before I Go to Sleep,2014-10-31,Thriller,15447154.0,92.0,2014
+Surf's Up,2007-06-08,Family,149044513.0,85.0,2007
+Bleach the Movie: Fade to Black,2008-12-13,Drama,6032296.0,94.0,2008
+The Green Inferno,2013-09-08,Adventure,12666449.0,100.0,2013
+Friday the 13th Part III,1982-08-13,Horror,36690067.0,95.0,1982
+"Me, Myself & Irene",2000-06-22,Comedy,149270999.0,116.0,2000
+Gremlins 2: The New Batch,1990-06-15,Fantasy,41482207.0,106.0,1990
+The Wave,2015-08-28,Thriller,12975143.0,104.0,2015
+Life As We Know It,2010-10-02,Drama,105734416.0,114.0,2010
+Octopussy,1983-06-05,Thriller,187500000.0,131.0,1983
+The Assignment,2016-09-11,Thriller,388789.0,95.0,2016
+Case 39,2009-08-13,Thriller,29000000.0,109.0,2009
+Jason Bourne,2016-07-27,Mystery,415484914.0,123.0,2016
+The Reader,2009-01-22,Romance,108902486.0,124.0,2009
+Trouble,2019-08-15,Music,12127842.0,88.0,2019
+King Kong,1933-03-15,Horror,10000000.0,104.0,1933
+Licence to Kill,1989-07-14,Thriller,156167015.0,133.0,1989
+Empire State,2013-09-03,Drama,3639345.0,94.0,2013
+The Boxtrolls,2014-09-11,Fantasy,108255770.0,97.0,2014
+The Outpost,2020-07-03,Action,2133452.0,123.0,2020
+The Warriors,1979-02-09,Thriller,22490039.0,94.0,1979
+Idiocracy,2006-09-01,Adventure,495303.0,84.0,2006
+Crimson Peak,2015-10-15,Romance,74679822.0,119.0,2015
+Lupin the Third: The Castle of Cagliostro,1979-12-15,Crime,8194857.0,102.0,1979
+In Bruges,2008-06-24,Crime,34533783.0,108.0,2008
+Who Am I,2014-09-25,Thriller,7700259.0,105.0,2014
+Snakes on a Plane,2006-08-24,Horror,62022014.0,105.0,2006
+Deliver Us from Evil,2014-07-02,Horror,87937815.0,118.0,2014
+True Romance,2002-04-18,Romance,12600000.0,,2002
+Ella Enchanted,2004-12-17,Comedy,27388767.0,96.0,2004
+Moulin Rouge!,2001-05-24,Music,179213434.0,128.0,2001
+P2,2007-11-09,Thriller,7766240.0,98.0,2007
+First Man,2018-10-18,Drama,105702570.0,141.0,2018
+Inherent Vice,2015-01-29,Comedy,14710975.0,149.0,2015
+Dr. No,1962-10-07,Thriller,59567035.0,110.0,1962
+Silver Linings Playbook,2012-11-16,Romance,236412453.0,122.0,2012
+From Paris with Love,2010-02-26,Thriller,52826594.0,92.0,2010
+Slither,2006-06-08,Comedy,12834936.0,95.0,2006
+Hellboy II: The Golden Army,2008-08-20,Science Fiction,160388063.0,,2008
+The Three Musketeers,2011-10-20,Thriller,132274484.0,110.0,2011
+The Rugrats Movie,1998-11-20,Adventure,100491683.0,79.0,1998
+The Omen,1976-06-25,Thriller,60922980.0,111.0,1976
+Some Like It Hot,2011-05-10,Crime,25000000.0,122.0,2011
+Double Jeopardy,1999-12-23,Drama,177841558.0,105.0,1999
+Elektra,2005-01-20,Science Fiction,56681566.0,97.0,2005
+Mile 22,2018-08-17,Thriller,66308758.0,95.0,2018
+Traffic,2001-04-05,Crime,207515725.0,147.0,2001
+Judge Dredd,1995-06-30,Science Fiction,113493481.0,96.0,1995
+Paranormal Activity: The Ghost Dimension,2015-10-29,Thriller,78096553.0,88.0,2015
+RoboCop,1987-07-17,Science Fiction,53424681.0,102.0,1987
+Hustlers,2019-09-12,Crime,157600000.0,110.0,2019
+Cheaper by the Dozen 2,2005-12-21,Adventure,129181830.0,94.0,2005
+Lethal Weapon 4,1998-07-23,Thriller,285444603.0,127.0,1998
+Legend of the Guardians: The Owls of Ga'Hoole,2010-09-24,Fantasy,140073390.0,97.0,2010
+The Illusionist,2006-08-18,Romance,87892388.0,110.0,2006
+Bedtime Stories,2008-12-25,Romance,212874864.0,99.0,2008
+The Grudge,2004-10-22,Thriller,183474602.0,92.0,2004
+Lawrence of Arabia,2001-04-03,War,69995385.0,228.0,2001
+Grimsby,2016-03-03,Comedy,27979040.0,83.0,2016
+Hunter x Hunter: The Last Mission,2014-02-20,Fantasy,7449778.0,97.0,2014
+The House Bunny,2008-08-22,Comedy,70442940.0,97.0,2008
+Gladiator,1992-03-06,Drama,900000.0,101.0,1992
+Booksmart,2019-05-24,Comedy,24849029.0,102.0,2019
+Jason X,2002-04-26,Science Fiction,16951798.0,91.0,2002
+Johnny English Strikes Again,2018-10-26,Comedy,158972499.0,89.0,2018
+Annapolis,2006-01-27,Action,17496992.0,108.0,2006
+A Nightmare on Elm Street 4: The Dream Master,1988-08-19,Thriller,49400000.0,94.0,1988
+Shallow Hal,2001-11-01,Romance,141069860.0,114.0,2001
+The Ant Bully,2006-08-09,Family,55181129.0,88.0,2006
+Faster,2010-11-23,Thriller,23081726.0,98.0,2010
+Mirage,2019-03-22,Fantasy,17325485.0,129.0,2019
+Escape from the Planet of the Apes,1971-05-20,Science Fiction,12348905.0,98.0,1971
+Freaks,2019-09-13,Mystery,333593.0,105.0,2019
+Jungle,2017-06-27,Thriller,1906640.0,115.0,2017
+Johnny English,2003-04-06,Comedy,160583018.0,88.0,2003
+Astro Boy,2009-10-23,Science Fiction,19551067.0,94.0,2009
+Private Lessons,1981-08-26,Romance,26279000.0,87.0,1981
+Superwho?,2022-02-02,Action,7375119.0,82.0,2022
+The Water Horse,2008-01-10,Fantasy,103071443.0,112.0,2008
+Mrs. Doubtfire,1994-05-19,Family,441286195.0,125.0,1994
+Raavanan,2010-06-18,Crime,9700000.0,134.0,2010
+Y Tu Mamá También,2001-06-08,Romance,33616692.0,106.0,2001
+Alien Resurrection,1997-11-26,Action,162000000.0,109.0,1997
+The Loft,2015-01-30,Thriller,10076790.0,108.0,2015
+Pineapple Express,2008-08-06,Crime,101624843.0,111.0,2008
+Hot Shots! Part Deux,1993-05-21,War,133752825.0,86.0,1993
+Moonraker,1979-06-27,Science Fiction,210308099.0,126.0,1979
+Drive Angry,2011-02-24,Crime,40909909.0,105.0,2011
+The Last of the Mohicans,1992-09-25,War,75505856.0,112.0,1992
+Planet Hulk,2010-02-02,Action,7000000.0,81.0,2010
+Return to Never Land,2002-03-28,Family,109862682.0,72.0,2002
+Trainspotting,1996-02-23,Crime,16491080.0,94.0,1996
+Animal Kingdom: Let's Go Ape,2015-04-08,Animation,16294916.0,100.0,2015
+Wish Upon,2017-07-14,Fantasy,14301505.0,90.0,2017
+[REC]³ Genesis,2012-03-30,Horror,11019975.0,80.0,2012
+Dark Waters,2020-01-02,Thriller,13601384.0,127.0,2020
+Hannah Montana: The Movie,2009-03-26,Romance,155545279.0,102.0,2009
+Teen Titans Go! To the Movies,2018-07-27,Science Fiction,28646544.0,85.0,2018
+Fracture,2007-04-19,Thriller,91354215.0,113.0,2007
+Herbie Fully Loaded,2005-09-01,Romance,144146816.0,100.0,2005
+Colossal,2017-04-07,Science Fiction,3029287.0,109.0,2017
+The Art of Racing in the Rain,2019-08-08,Comedy,33766787.0,109.0,2019
+Cruel Intentions,1999-03-05,Romance,76347426.0,98.0,1999
+I Can Only Imagine,2018-03-16,Drama,86026201.0,110.0,2018
+Pooh's Heffalump Movie,2005-02-11,Fantasy,52900000.0,68.0,2005
+The Exorcist III,1990-08-17,Mystery,39024251.0,110.0,1990
+Dennis the Menace,1993-06-23,Comedy,117270765.0,94.0,1993
+Death Proof,2007-06-20,Thriller,31126421.0,113.0,2007
+Godzilla Against MechaGodzilla,2002-11-02,Science Fiction,16000000.0,88.0,2002
+A Bad Moms Christmas,2017-11-01,Comedy,130560428.0,104.0,2017
+Just Mercy,2019-12-25,History,50401502.0,137.0,2019
+The Possession of Hannah Grace,2018-11-30,Drama,43016528.0,86.0,2018
+The Anthem of the Heart,2015-09-19,Romance,8852989.0,119.0,2015
+TMNT,2007-03-23,Family,95608995.0,87.0,2007
+Sin Nombre,2009-03-20,Crime,5102705.0,96.0,2009
+Unforgiven,1992-08-07,Western,159157447.0,130.0,1992
+The Game,1997-11-06,Mystery,109423648.0,129.0,1997
+Mortal Kombat: Annihilation,1997-11-21,Science Fiction,51376861.0,95.0,1997
+For a Few Dollars More,1965-12-18,Western,15000000.0,132.0,1965
+Revolutionary Road,2008-12-19,Romance,75981180.0,119.0,2008
+The Graduate,1967-12-21,Romance,104945305.0,106.0,1967
+Carlito's Way,2005-09-13,Romance,63848322.0,144.0,2005
+A Cure for Wellness,2017-02-17,Thriller,26620002.0,146.0,2017
+Hitch,2005-02-11,Romance,368100420.0,118.0,2005
+90 Minutes in Heaven,2015-09-11,Drama,4842699.0,121.0,2015
+The Vatican Tapes,2015-07-24,Horror,1784763.0,91.0,2015
+The Man from U.N.C.L.E.,2015-09-03,Adventure,108145109.0,116.0,2015
+Big Daddy,1999-06-25,Drama,234801895.0,93.0,1999
+Dumb and Dumberer: When Harry Met Lloyd,2003-06-13,Comedy,39267515.0,85.0,2003
+Warm Bodies,2013-03-14,Romance,116980662.0,97.0,2013
+Wild Tales,2014-08-21,Comedy,27007072.0,122.0,2014
+Downsizing,2017-12-22,Science Fiction,55003890.0,135.0,2017
+Barbie in 'A Christmas Carol',2008-11-04,Family,4496912.0,76.0,2008
+Ocean's Thirteen,2007-06-07,Thriller,311312624.0,122.0,2007
+National Treasure: Book of Secrets,2007-12-13,Thriller,459242249.0,124.0,2007
+Suspiria,1977-02-01,Horror,2884265.0,99.0,1977
+Friday the 13th Part VI: Jason Lives,1986-08-01,Thriller,19472057.0,87.0,1986
+The Pink Panther,2006-02-16,Family,158851357.0,93.0,2006
+Pokémon: The First Movie,1998-07-18,Action,163644662.0,85.0,1998
+From Hell,2001-10-29,Thriller,74558115.0,122.0,2001
+Brahms: The Boy II,2020-02-20,Thriller,20311536.0,86.0,2020
+Good Boys,2019-09-12,Comedy,111037232.0,89.0,2019
+Open Season 2,2009-01-27,Family,8700000.0,76.0,2009
+The House That Jack Built,2018-10-21,Thriller,5566776.0,152.0,2018
+How High,2001-12-21,Comedy,31155435.0,93.0,2001
+Big Momma's House,2000-05-31,Comedy,173959438.0,98.0,2000
+Into the Wild,2007-09-21,Drama,56255142.0,148.0,2007
+The Founder,2017-01-20,History,24121245.0,115.0,2017
+I Am Sam,2001-12-28,Drama,92542418.0,132.0,2001
+Meet the Spartans,2008-01-24,Comedy,85897593.0,84.0,2008
+Chaos,2005-01-17,Crime,7000000.0,106.0,2005
+The Other Woman,2014-04-16,Romance,196781193.0,109.0,2014
+Hot Fuzz,2007-02-14,Comedy,80573774.0,121.0,2007
+Crimson Tide,1995-05-12,Action,157387195.0,116.0,1995
+One Piece: Strong World,2009-12-12,Adventure,53000000.0,114.0,2009
+Red Riding Hood,2011-03-11,Horror,89162162.0,100.0,2011
+Kung Fu Jungle,2014-10-31,Crime,129115.0,100.0,2014
+Dracula Untold,2014-10-03,War,217124280.0,92.0,2014
+Shame,2011-12-02,Drama,3909002.0,102.0,2011
+Rosemary's Baby,1968-06-12,Thriller,33395426.0,138.0,1968
+The World Is Not Enough,1999-11-26,Thriller,361832400.0,128.0,1999
+"Three Billboards Outside Ebbing, Missouri",2018-01-25,Drama,160192031.0,115.0,2018
+Instant Family,2019-01-10,Comedy,120989656.0,118.0,2019
+Pelé: Birth of a Legend,2016-05-06,Drama,27312.0,107.0,2016
+Sex and Death 101,2007-06-15,Drama,1.0,100.0,2007
+A Fistful of Dollars,1964-09-12,Western,14500000.0,99.0,1964
+We Are the Nobles,2013-03-28,Comedy,26433651.0,108.0,2013
+Baby's Day Out,1994-07-01,Drama,16671505.0,99.0,1994
+Romeo Must Die,2000-03-22,Thriller,91036760.0,115.0,2000
+Epic Movie,2007-01-26,Adventure,86865564.0,85.0,2007
+The Fourth Kind,2009-11-06,Thriller,47709193.0,98.0,2009
+Meet the Fockers,2004-12-30,Romance,516642939.0,115.0,2004
+Behind Enemy Lines,2005-11-05,War,91753202.0,106.0,2005
+Midnight in Paris,2011-10-13,Romance,151119219.0,94.0,2011
+Gran Torino,2008-12-09,Drama,269958228.0,116.0,2008
+3 Days to Kill,2014-02-27,Thriller,52597999.0,113.0,2014
+Kickboxer: Retaliation,2018-01-26,Drama,4537.0,110.0,2018
+The Judge,2014-10-10,Drama,83719388.0,141.0,2014
+Exorcist II: The Heretic,1977-06-17,Thriller,30749142.0,118.0,1977
+Bridget Jones's Diary,2001-07-26,Drama,281929795.0,97.0,2001
+Flavors of Youth,2018-08-04,Drama,496334.0,74.0,2018
+"Crouching Tiger, Hidden Dragon",2000-07-06,Romance,213525736.0,,2000
+Dragon Blade,2015-02-19,History,121545703.0,127.0,2015
+Citizen Kane,1941-05-06,Drama,23218000.0,119.0,1941
+Troll Hunter,2010-10-29,Horror,4159678.0,103.0,2010
+Paranormal Activity: Tokyo Night,2010-11-20,Thriller,4160000.0,91.0,2010
+The Lord of the Rings,1978-11-15,Fantasy,30471420.0,132.0,1978
+Apollo 13,1995-06-30,Adventure,355237933.0,140.0,1995
+High School Musical 2,2007-08-17,TV Movie,7000000.0,111.0,2007
+The One,2001-11-02,Thriller,72689126.0,87.0,2001
+A.I. Artificial Intelligence,2001-09-06,Adventure,235926552.0,146.0,2001
+Romeo and Juliet,1968-09-25,Romance,38901218.0,138.0,1968
+Marley & Me,2008-12-25,Family,255743093.0,115.0,2008
+Around the World in 80 Days,2004-06-17,Comedy,72178895.0,,2004
+Soul Surfer,2011-04-08,Drama,47088990.0,112.0,2011
+Romeo + Juliet,1996-11-01,Romance,147298761.0,,1996
+Copshop,2022-01-14,Action,6807158.0,107.0,2022
+Diary of a Wimpy Kid: The Long Haul,2017-05-19,Family,40120144.0,91.0,2017
+Invasion,2020-01-01,Action,32104054.0,129.0,2020
+Sex Drive,2008-10-17,Romance,18755936.0,109.0,2008
+A Frozen Flower,2008-12-30,Drama,18980744.0,133.0,2008
+The Little Rascals,1994-08-05,Family,67308282.0,82.0,1994
+Malcolm X,1992-11-18,History,48169908.0,202.0,1992
+Spread,2009-01-17,Romance,12035862.0,97.0,2009
+An American Tail: Fievel Goes West,1991-11-21,Western,40766041.0,75.0,1991
+Promising Young Woman,2021-03-04,Drama,13868965.0,114.0,2021
+Shaft,2019-06-28,Crime,21360215.0,111.0,2019
+Ghost Ship,2002-12-05,Thriller,68349884.0,91.0,2002
+The Grudge,2020-01-02,Mystery,42800000.0,93.0,2020
+One Piece: Baron Omatsuri and the Secret Island,2005-03-05,Comedy,10494545.0,92.0,2005
+13 Minutes,2021-10-29,Thriller,67413.0,109.0,2021
+Young & Beautiful,2013-08-21,Drama,9757417.0,95.0,2013
+Paranormal Activity 4,2012-10-25,Horror,142817992.0,97.0,2012
+Paul Blart: Mall Cop,2009-01-15,Family,183293131.0,91.0,2009
+The Dark and the Wicked,2020-11-06,Mystery,289157.0,95.0,2020
+Beverly Hills Cop III,1994-05-24,Crime,119208989.0,105.0,1994
+There Will Be Blood,2007-12-26,Drama,77208711.0,158.0,2007
+The Commuter,2018-01-12,Mystery,119942387.0,104.0,2018
+That Awkward Moment,2014-01-31,Romance,45640143.0,94.0,2014
+Bad Boys,1983-03-25,Thriller,9190819.0,123.0,1983
+End of Days,1999-12-09,Mystery,211989043.0,121.0,1999
+The Wolf of Snow Hollow,2020-10-09,Thriller,239828.0,84.0,2020
+Logan Lucky,2017-09-07,Drama,48453605.0,118.0,2017
+Maggie,2015-05-08,Mystery,187112.0,95.0,2015
+L.A. Confidential,1997-11-20,Thriller,126216940.0,138.0,1997
+Shin Godzilla,2016-08-25,Horror,77947607.0,,2016
+The Wailing,2016-05-12,Mystery,49851770.0,156.0,2016
+The Lego Ninjago Movie,2017-09-21,Comedy,123081555.0,101.0,2017
+Talladega Nights: The Ballad of Ricky Bobby,2006-10-12,Comedy,162966177.0,106.0,2006
+Eragon,2006-12-15,Family,249288105.0,104.0,2006
+Don't Listen,2020-07-24,Thriller,443458.0,98.0,2020
+Killer Elite,2011-11-01,Thriller,57777106.0,116.0,2011
+Scent of a Woman,1992-12-23,Drama,134095253.0,156.0,1992
+Red Dawn,1984-08-10,Drama,38376497.0,114.0,1984
+The Tigger Movie,2000-02-11,Comedy,45554533.0,77.0,2000
+Dante's Peak,1997-03-13,Thriller,178127760.0,108.0,1997
+El Dorado,1967-06-07,Romance,6000000.0,126.0,1967
+The Jungle Book 2,2003-02-14,Adventure,135680000.0,72.0,2003
+A Few Good Men,1992-12-11,Drama,243240178.0,138.0,1992
+Pandorum,2009-10-15,Thriller,20648328.0,108.0,2009
+Thirst,2009-04-30,Thriller,13085023.0,134.0,2009
+Winter's Tale,2014-02-13,Romance,30800231.0,118.0,2014
+Miss Sloane,2016-11-25,Drama,9101546.0,133.0,2016
+The Lost City of Z,2017-03-24,History,8574339.0,141.0,2017
+The Texas Chainsaw Massacre 2,1986-08-22,Horror,8025872.0,101.0,1986
+A Time to Kill,2009-02-09,Thriller,152266007.0,149.0,2009
+Night of the Living Dead,1990-10-19,Thriller,5835247.0,88.0,1990
+Gangs of New York,2002-12-19,Crime,193772504.0,168.0,2002
+Burn,2019-08-23,Action,25373.0,89.0,2019
+The Phantom of the Opera,2004-12-22,Romance,154648887.0,143.0,2004
+How to Lose a Guy in 10 Days,2003-02-07,Romance,177502387.0,116.0,2003
+Valkyrie,2008-12-25,War,200276000.0,121.0,2008
+Cujo,1983-08-12,Thriller,21200000.0,93.0,1983
+Cake,2014-12-31,Drama,2360281.0,102.0,2014
+Non-Stop,2014-03-06,Mystery,222809600.0,106.0,2014
+mid90s,2018-10-19,Comedy,6897446.0,86.0,2018
+The Reaping,2007-04-05,Horror,62771059.0,99.0,2007
+Reminiscence,2021-08-19,Science Fiction,18717947.0,116.0,2021
+Iron Sky,2012-08-23,Science Fiction,10109659.0,93.0,2012
+Red Corner,1997-10-30,Thriller,22420000.0,122.0,1997
+Man on a Ledge,2012-03-01,Crime,46221189.0,102.0,2012
+Pandora,2016-12-07,Action,30169000.0,136.0,2016
+Escape from New York,1981-06-26,Action,50244700.0,99.0,1981
+Ferris Bueller's Day Off,1986-06-11,Comedy,70136369.0,103.0,1986
+Children of Men,2013-10-06,Science Fiction,70595464.0,109.0,2013
+Monster Trucks,2017-01-13,Science Fiction,64493915.0,104.0,2017
+Atlantis: The Lost Empire,2001-06-14,Science Fiction,186053725.0,95.0,2001
+Chicago,2002-12-26,Drama,306776732.0,113.0,2002
+Girls Trip,2017-07-21,Comedy,140376621.0,122.0,2017
+Two Many Chefs,2022-09-16,Comedy,2035911.0,92.0,2022
+The Perfect Storm,2000-07-20,Thriller,325756637.0,130.0,2000
+The Mortuary Collection,2019-09-21,Horror,34265.0,108.0,2019
+Mystic River,2004-06-08,Mystery,156822020.0,138.0,2004
+Robin Hood: Men in Tights,1993-07-28,Comedy,35739755.0,104.0,1993
+Point Break,2015-12-24,Thriller,133718711.0,113.0,2015
+The Nice Guys,2016-05-20,Action,62788218.0,116.0,2016
+The Strangers,2008-05-30,Thriller,82391145.0,86.0,2008
+Tag,2018-06-15,Action,75100000.0,100.0,2018
+Extinction,2018-07-27,Thriller,1451864.0,96.0,2018
+Vacancy,2007-04-20,Thriller,35300645.0,85.0,2007
+Friday the 13th: A New Beginning,1985-03-22,Mystery,21930418.0,92.0,1985
+Peter Rabbit,2018-02-22,Family,351266433.0,93.0,2018
+The Way of the Dragon,1972-06-01,Crime,27000000.0,100.0,1972
+Sailor Moon R: The Movie,1993-12-05,Fantasy,12307555.0,61.0,1993
+High Plains Drifter,1973-04-19,Mystery,15700000.0,105.0,1973
+Austin Powers in Goldmember,2002-07-26,Science Fiction,296938801.0,93.0,2002
+Let There Be Light,2017-10-27,Drama,7240000.0,100.0,2017
+Leprechaun,1993-01-08,Horror,8556940.0,91.0,1993
+Cats & Dogs,2001-07-04,Comedy,93375151.0,87.0,2001
+"Lust, Caution",2007-09-27,Thriller,67091915.0,156.0,2007
+The Sum of All Fears,2002-05-31,Drama,193921372.0,124.0,2002
+Step Brothers,2008-07-25,Comedy,128107642.0,98.0,2008
+Kelly's Heroes,1970-06-23,War,5200000.0,144.0,1970
+Sin City,2005-07-14,Crime,158733820.0,124.0,2005
+Stripes,1981-06-25,Comedy,85300000.0,106.0,1981
+The Drop,2014-10-16,Crime,19054534.0,106.0,2014
+Homefront,2013-12-05,Thriller,43058898.0,100.0,2013
+In the Heart of the Sea,2015-12-10,History,93920758.0,122.0,2015
+Beneath the Planet of the Apes,1970-05-26,Mystery,18999718.0,95.0,1970
+The Eight Hundred,2020-09-10,Action,460919368.0,147.0,2020
+New Nightmare,1994-10-14,Fantasy,57000000.0,112.0,1994
+Scarface,1932-04-09,Thriller,600000.0,93.0,1932
+Species II,1998-04-10,Horror,19165560.0,93.0,1998
+Mary Poppins Returns,2018-12-25,Comedy,348807090.0,131.0,2018
+Ichi the Killer,2001-12-22,Horror,80631.0,129.0,2001
+Rio Bravo,1959-03-17,Western,5800000.0,141.0,1959
+Rear Window,2008-10-07,Mystery,37034514.0,112.0,2008
+How to Be a Latin Lover,2017-04-28,Comedy,26251899.0,115.0,2017
+Big Fish,2004-02-26,Drama,123218424.0,125.0,2004
+Looney Tunes: Back in Action,2003-11-14,Family,68514844.0,93.0,2003
+Ip Man 3,2015-12-24,History,157029618.0,105.0,2015
+Moloch,2022-08-18,Horror,558917.0,99.0,2022
+Police Academy 3: Back in Training,1986-03-20,Crime,107600000.0,84.0,1986
+Beowulf,2007-11-05,Animation,195735876.0,115.0,2007
+Clear and Present Danger,1994-08-03,Thriller,215887717.0,141.0,1994
+Zero Dark Thirty,2013-01-24,History,132820716.0,157.0,2013
+The Specialist,1994-10-07,Thriller,170362582.0,110.0,1994
+Ocean's Twelve,2004-12-16,Crime,362744280.0,125.0,2004
+Secret Window,2004-06-10,Thriller,92913171.0,96.0,2004
+Wedding Crashers,2005-08-04,Romance,288485135.0,119.0,2005
+Death Becomes Her,1992-07-30,Horror,149022650.0,104.0,1992
+"Love, Simon",2018-03-16,Romance,66316289.0,110.0,2018
+The Collector,2009-07-31,Thriller,114000000.0,88.0,2009
+Das Boot,1981-09-17,War,85000000.0,150.0,1981
+The Haunting in Connecticut,2009-03-27,Horror,77527732.0,102.0,2009
+Stuber,2019-08-15,Comedy,32400000.0,93.0,2019
+Les Misérables,2012-12-25,Drama,441809770.0,158.0,2012
+Antebellum,2020-09-18,Horror,7060384.0,105.0,2020
+The Villainess,2017-06-08,Thriller,8737458.0,129.0,2017
+Lake Placid,1999-07-15,Thriller,56870414.0,82.0,1999
+Footloose,1984-02-17,Romance,80035402.0,107.0,1984
+The Basketball Diaries,1995-04-21,Crime,2381087.0,102.0,1995
+Psycho-Pass 3: First Inspector,2020-03-27,Animation,757096.0,137.0,2020
+National Lampoon's European Vacation,1985-07-25,Romance,49364621.0,95.0,1985
+The Watch,2012-08-23,Science Fiction,68267862.0,102.0,2012
+Primeval,2007-01-12,Horror,10597734.0,93.0,2007
+The Girl in the Spider's Web,2018-11-09,Drama,35164920.0,115.0,2018
