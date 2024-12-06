@@ -24,5 +24,26 @@ genres_list = df['Genres'].unique()
 genres_selection = st.multiselect( 
   label='Select Genres', # Dropdown label 
   options=genres_list, # List of genres to choose from 
-  default=['Action', 'Adventure', 'Biography', 'Comedy', 'Drama', 'Horror'] # Default selected genres 
+  default=['Action', 'Adventure', 'Biography', 'Comedy', 'Drama', 'Horror', 'Science Fiction'] # Default selected genres 
 )
+# Year selection - Create slider for year range selection
+year_list = df.Year.unique()
+year_selection = st.slider('Select year duration', 1986, 2006, (2000, 2016))
+year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
+
+# Subset data - Filter DataFrame based on selections
+df_selection = df[df.Genres.isin(genres_selection) & df['Year'].isin(year_selection_list)]
+reshaped_df = df_selection.pivot_table(index='Year', columns='Genres', values='Revenue', aggfunc='sum', fill_value=0)
+reshaped_df = reshaped_df.sort_values(by='Year', ascending=False)
+# Display the DataFrame 
+st.write(reshaped_df)
+
+# Data preparation - Prepare data for charting 
+df_chart = pd.melt(reshaped_df.reset_index(), id_vars='Year', var_name='Genres', value_name='Revenue') 
+
+# Display line chart 
+chart = alt.Chart(df_chart).mark_line().encode( 
+  x=alt.X('Year:N', title='Year'), 
+  y=alt.Y('Revenue:Q', title='Revenue Amount ($)'), 
+  color='Genres:N').properties(height=320) 
+st.altair_chart(chart, use_container_width=True)
