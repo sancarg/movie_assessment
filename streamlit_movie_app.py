@@ -24,7 +24,7 @@ genres_list = df['Genres'].unique()
 genres_selection = st.multiselect( 
   label='Select Genres', # Dropdown label 
   options=genres_list, # List of genres to choose from 
-  default=['Action', 'Adventure', 'Biography', 'Comedy', 'Drama', 'Horror', 'Science Fiction'] # Default selected genres 
+  default=['Mystery', 'Adventure', 'Thriller', 'Comedy', 'Drama', 'Horror', 'Science Fiction'] # Default selected genres 
 )
 # Year selection - Create slider for year range selection
 year_list = df.Year.unique()
