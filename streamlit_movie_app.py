@@ -37,8 +37,8 @@ reshaped_df = df_selection.pivot_table(index='Year', columns='Genres', values='R
 reshaped_df = reshaped_df.sort_values(by='Year', ascending=False)
 # Apply custom formatting to the DataFrame 
 styled_df = reshaped_df.style.format({"Year": "{:.0f}"}) # Format only the Year column
- # Display the DataFrame with 
-st.dataframe st.dataframe(styled_df, height=212, use_container_width=True)
+# Display the DataFrame with 
+st.dataframe(styled_df, height=212, use_container_width=True)
 # Display the DataFrame 
 #st.write(reshaped_df)
 
