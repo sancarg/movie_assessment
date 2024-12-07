@@ -35,9 +35,12 @@ year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
 df_selection = df[df.Genres.isin(genres_selection) & df['Year'].isin(year_selection_list)]
 reshaped_df = df_selection.pivot_table(index='Year', columns='Genres', values='Revenue', aggfunc='sum', fill_value=0)
 reshaped_df = reshaped_df.sort_values(by='Year', ascending=False)
-reshaped_df = reshaped_df.style.format({"Year": "{:.0f}"})
+# Apply custom formatting to the DataFrame 
+styled_df = reshaped_df.style.format({"Year": "{:.0f}"}) # Format only the Year column
+ # Display the DataFrame with 
+st.dataframe st.dataframe(styled_df, height=212, use_container_width=True)
 # Display the DataFrame 
-st.write(reshaped_df)
+#st.write(reshaped_df)
 
 # Data preparation - Prepare data for charting 
 df_chart = pd.melt(reshaped_df.reset_index(), id_vars='Year', var_name='Genres', value_name='Revenue') 
