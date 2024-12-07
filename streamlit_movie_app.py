@@ -28,7 +28,7 @@ genres_selection = st.multiselect(
 )
 # Year selection - Create slider for year range selection
 year_list = df.Year.unique()
-year_selection = st.slider('Select year duration', 1986, 2006, (2000, 2016))
+year_selection = st.slider('Select year duration', 1932, 2023, (2000, 2023))
 year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
 
 # Subset data - Filter DataFrame based on selections
