@@ -35,6 +35,7 @@ year_selection_list = list(np.arange(year_selection[0], year_selection[1]+1))
 df_selection = df[df.Genres.isin(genres_selection) & df['Year'].isin(year_selection_list)]
 reshaped_df = df_selection.pivot_table(index='Year', columns='Genres', values='Revenue', aggfunc='sum', fill_value=0)
 reshaped_df = reshaped_df.sort_values(by='Year', ascending=False)
+reshaped_df.index = reshaped_df.index.astype(int)
 # Display the DataFrame 
 st.write(reshaped_df)
 
